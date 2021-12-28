@@ -1,594 +1,594 @@
-index,Event,Medal,Rank,Country,Country_Code,Athlete,Continent,Host City,Year
-0,10000m men,Gold,1,Finland,FIN,Julius SKUTNABB,Europe,Chamonix,1924
-1,10000m men,Silver,2,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924
-2,10000m men,Bronze,3,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924
-3,1500m men,Gold,1,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924
-4,1500m men,Silver,2,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924
-5,1500m men,Bronze,3,Norway,NOR,Sigurd MOEN,Europe,Chamonix,1924
-6,5000m men,Gold,1,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924
-7,5000m men,Silver,2,Finland,FIN,Julius SKUTNABB,Europe,Chamonix,1924
-8,5000m men,Bronze,3,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924
-9,500m men,Gold,1,United States of America,USA,Charles JEWTRAW,North America,Chamonix,1924
-10,500m men,Silver,2,Norway,NOR,Oskar OLSEN,Europe,Chamonix,1924
-11,500m men,Bronze,3,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924
-12,500m men,Bronze,3,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924
-13,Team pursuit men,Gold,1,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924
-14,Team pursuit men,Silver,2,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924
-15,Team pursuit men,Bronze,3,Finland,FIN,Julius SKUTNABB,Europe,Chamonix,1924
-16,1500m men,Gold,1,Finland,FIN,Clas THUNBERG,Europe,St-Moritz,1928
-17,1500m men,Silver,2,Norway,NOR,Bernt EVENSEN,Europe,St-Moritz,1928
-18,1500m men,Bronze,3,Norway,NOR,Ivar BALLANGRUD,Europe,St-Moritz,1928
-19,5000m men,Gold,1,Norway,NOR,Ivar BALLANGRUD,Europe,St-Moritz,1928
-20,5000m men,Silver,2,Finland,FIN,Julius SKUTNABB,Europe,St-Moritz,1928
-21,5000m men,Bronze,3,Norway,NOR,Bernt EVENSEN,Europe,St-Moritz,1928
-22,500m men,Gold,1,Norway,NOR,Bernt EVENSEN,Europe,St-Moritz,1928
-23,500m men,Gold,1,Finland,FIN,Clas THUNBERG,Europe,St-Moritz,1928
-24,500m men,Bronze,3,United States of America,USA,John O FARRELL,North America,St-Moritz,1928
-25,500m men,Bronze,3,Finland,FIN,Jaakko FRIMAN,Europe,St-Moritz,1928
-26,500m men,Bronze,3,Norway,NOR,Roald LARSEN,Europe,St-Moritz,1928
-27,10000m men,Gold,1,United States of America,USA,Irving JAFFEE,North America,Lake-Placid,1932
-28,10000m men,Silver,2,Norway,NOR,Ivar BALLANGRUD,Europe,Lake-Placid,1932
-29,10000m men,Bronze,3,Canada,CAN,Frank STACK,North America,Lake-Placid,1932
-30,1500m men,Gold,1,United States of America,USA,Jack SHEA,North America,Lake-Placid,1932
-31,1500m men,Silver,2,Canada,CAN,Alex Hurd,North America,Lake-Placid,1932
-32,1500m men,Bronze,3,Canada,CAN,William F. LOGAN,North America,Lake-Placid,1932
-33,5000m men,Gold,1,United States of America,USA,Irving JAFFEE,North America,Lake-Placid,1932
-34,5000m men,Silver,2,United States of America,USA,Edward MURPHY,North America,Lake-Placid,1932
-35,5000m men,Bronze,3,Canada,CAN,William F. LOGAN,North America,Lake-Placid,1932
-36,500m men,Gold,1,United States of America,USA,Jack SHEA,North America,Lake-Placid,1932
-37,500m men,Silver,2,Norway,NOR,Bernt EVENSEN,Europe,Lake-Placid,1932
-38,500m men,Bronze,3,Canada,CAN,Alex Hurd,North America,Lake-Placid,1932
-39,10000m men,Gold,1,Norway,NOR,Ivar BALLANGRUD,Europe,Garmisch-Partenkirchen,1936
-40,10000m men,Silver,2,Finland,FIN,Birger WASENIUS,Europe,Garmisch-Partenkirchen,1936
-41,10000m men,Bronze,3,Austria,AUT,Max STIEPL,Europe,Garmisch-Partenkirchen,1936
-42,1500m men,Gold,1,Norway,NOR,Charles MATHISEN,Europe,Garmisch-Partenkirchen,1936
-43,1500m men,Silver,2,Norway,NOR,Ivar BALLANGRUD,Europe,Garmisch-Partenkirchen,1936
-44,1500m men,Bronze,3,Finland,FIN,Birger WASENIUS,Europe,Garmisch-Partenkirchen,1936
-45,5000m men,Gold,1,Norway,NOR,Ivar BALLANGRUD,Europe,Garmisch-Partenkirchen,1936
-46,5000m men,Silver,2,Finland,FIN,Birger WASENIUS,Europe,Garmisch-Partenkirchen,1936
-47,5000m men,Bronze,3,Finland,FIN,Antero OJALA,Europe,Garmisch-Partenkirchen,1936
-48,500m men,Gold,1,Norway,NOR,Ivar BALLANGRUD,Europe,Garmisch-Partenkirchen,1936
-49,500m men,Silver,2,Norway,NOR,Georg KROG,Europe,Garmisch-Partenkirchen,1936
-50,500m men,Bronze,3,United States of America,USA,Leo FREISINGER,North America,Garmisch-Partenkirchen,1936
-51,10000m men,Gold,1,,,,,Garmisch-Partenkirchen,1940
-52,10000m men,Silver,2,,,,,Garmisch-Partenkirchen,1940
-53,10000m men,Bronze,3,,,,,Garmisch-Partenkirchen,1940
-54,1500m men,Gold,1,,,,,Garmisch-Partenkirchen,1940
-55,1500m men,Silver,2,,,,,Garmisch-Partenkirchen,1940
-56,1500m men,Bronze,3,,,,,Garmisch-Partenkirchen,1940
-57,5000m men,Gold,1,,,,,Garmisch-Partenkirchen,1940
-58,5000m men,Silver,2,,,,,Garmisch-Partenkirchen,1940
-59,5000m men,Bronze,3,,,,,Garmisch-Partenkirchen,1940
-60,500m men,Gold,1,,,,,Garmisch-Partenkirchen,1940
-61,500m men,Silver,2,,,,,Garmisch-Partenkirchen,1940
-62,500m men,Bronze,3,,,,,Garmisch-Partenkirchen,1940
-63,10000m men,Gold,1,,,,,Cortina d'Ampezzo,1944
-64,10000m men,Silver,2,,,,,Cortina d'Ampezzo,1944
-65,10000m men,Bronze,3,,,,,Cortina d'Ampezzo,1944
-66,1500m men,Gold,1,,,,,Cortina d'Ampezzo,1944
-67,1500m men,Silver,2,,,,,Cortina d'Ampezzo,1944
-68,1500m men,Bronze,3,,,,,Cortina d'Ampezzo,1944
-69,5000m men,Gold,1,,,,,Cortina d'Ampezzo,1944
-70,5000m men,Silver,2,,,,,Cortina d'Ampezzo,1944
-71,5000m men,Bronze,3,,,,,Cortina d'Ampezzo,1944
-72,500m men,Gold,1,,,,,Cortina d'Ampezzo,1944
-73,500m men,Silver,2,,,,,Cortina d'Ampezzo,1944
-74,500m men,Bronze,3,,,,,Cortina d'Ampezzo,1944
-75,10000m men,Gold,1,Sweden,SWE,Ake SEYFFARTH,Europe,St-Moritz,1948
-76,10000m men,Silver,2,Finland,FIN,Lauri PARKKINEN,Europe,St-Moritz,1948
-77,10000m men,Bronze,3,Finland,FIN,Pentti LAMMIO,Europe,St-Moritz,1948
-78,1500m men,Gold,1,Norway,NOR,Sverre FARSTAD,Europe,St-Moritz,1948
-79,1500m men,Silver,2,Sweden,SWE,Ake SEYFFARTH,Europe,St-Moritz,1948
-80,1500m men,Bronze,3,Norway,NOR,Odd LUNDBERG,Europe,St-Moritz,1948
-81,5000m men,Gold,1,Norway,NOR,Reidar LIAKLEV,Europe,St-Moritz,1948
-82,5000m men,Silver,2,Norway,NOR,Odd LUNDBERG,Europe,St-Moritz,1948
-83,5000m men,Bronze,3,Sweden,SWE,Göthe HEDLUND,Europe,St-Moritz,1948
-84,500m men,Gold,1,Norway,NOR,Finn HELGESEN,Europe,St-Moritz,1948
-85,500m men,Silver,2,United States of America,USA,Ken Bartholomew,North America,St-Moritz,1948
-86,500m men,Silver,2,Norway,NOR,Thomas BYBERG,Europe,St-Moritz,1948
-87,500m men,Silver,2,United States of America,USA,Robert FITZGERALD,North America,St-Moritz,1948
-88,10000m men,Gold,1,Norway,NOR,Hjalmar ANDERSEN,Europe,Oslo,1952
-89,10000m men,Silver,2,Netherlands,NED,Cornelis BROEKMAN,Europe,Oslo,1952
-90,10000m men,Bronze,3,Sweden,SWE,Carl-Erik ASPLUND,Europe,Oslo,1952
-91,1500m men,Gold,1,Norway,NOR,Hjalmar ANDERSEN,Europe,Oslo,1952
-92,1500m men,Silver,2,Netherlands,NED,Willem VAN DER VOORT,Europe,Oslo,1952
-93,1500m men,Bronze,3,Norway,NOR,Roald AAS,Europe,Oslo,1952
-94,5000m men,Gold,1,Norway,NOR,Hjalmar ANDERSEN,Europe,Oslo,1952
-95,5000m men,Silver,2,Netherlands,NED,Cornelis BROEKMAN,Europe,Oslo,1952
-96,5000m men,Bronze,3,Norway,NOR,Sverre HAUGLI,Europe,Oslo,1952
-97,500m men,Gold,1,United States of America,USA,Kenneth HENRY,North America,Oslo,1952
-98,500m men,Silver,2,United States of America,USA,Donald MCDERMOTT,North America,Oslo,1952
-99,500m men,Bronze,3,Canada,CAN,Gordon AUDLEY,North America,Oslo,1952
-100,500m men,Bronze,3,Norway,NOR,Arne JOHANSEN,Europe,Oslo,1952
-101,10000m men,Gold,1,Sweden,SWE,Sigvard ERICSSON,Europe,Cortina-D-Ampezzo,1956
-102,10000m men,Silver,2,Norway,NOR,Knut JOHANNESEN,Europe,Cortina-D-Ampezzo,1956
-103,10000m men,Bronze,3,Soviet Union,URS,Oleg GONCHARENKO,Europe,Cortina-D-Ampezzo,1956
-104,1500m men,Gold,1,Soviet Union,URS,Yevgeny GRISHIN,Europe,Cortina-D-Ampezzo,1956
-105,1500m men,Gold,1,Soviet Union,URS,Yury MIKHAILOV,Europe,Cortina-D-Ampezzo,1956
-106,1500m men,Bronze,3,Finland,FIN,Toivo SALONEN,Europe,Cortina-D-Ampezzo,1956
-107,5000m men,Gold,1,Soviet Union,URS,Boris SHILKOV,Europe,Cortina-D-Ampezzo,1956
-108,5000m men,Silver,2,Sweden,SWE,Sigvard ERICSSON,Europe,Cortina-D-Ampezzo,1956
-109,5000m men,Bronze,3,Soviet Union,URS,Oleg GONCHARENKO,Europe,Cortina-D-Ampezzo,1956
-110,500m men,Gold,1,Soviet Union,URS,Yevgeny GRISHIN,Europe,Cortina-D-Ampezzo,1956
-111,500m men,Silver,2,Soviet Union,URS,Rafael GRACH,Europe,Cortina-D-Ampezzo,1956
-112,500m men,Bronze,3,Norway,NOR,Alv GJESTVANG,Europe,Cortina-D-Ampezzo,1956
-113,10000m men,Gold,1,Norway,NOR,Knut JOHANNESEN,Europe,Squaw-Valley,1960
-114,10000m men,Silver,2,Soviet Union,URS,Viktor KOSICHKIN,Europe,Squaw-Valley,1960
-115,10000m men,Bronze,3,Sweden,SWE,Kjell BÄCKMAN,Europe,Squaw-Valley,1960
-116,1000m women,Gold,1,Soviet Union,URS,Klara GUSEVA,Europe,Squaw-Valley,1960
-117,1000m women,Silver,2,Germany,GER,Helga HAASE,Europe,Squaw-Valley,1960
-118,1000m women,Bronze,3,Soviet Union,URS,Tamara RYLOVA,Europe,Squaw-Valley,1960
-119,1500m men,Gold,1,Norway,NOR,Roald AAS,Europe,Squaw-Valley,1960
-120,1500m men,Gold,1,Soviet Union,URS,Yevgeny GRISHIN,Europe,Squaw-Valley,1960
-121,1500m men,Bronze,3,Soviet Union,URS,Boris STENIN,Europe,Squaw-Valley,1960
-122,1500m women,Gold,1,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Squaw-Valley,1960
-123,1500m women,Silver,2,Poland,POL,Elwira SEROCZYNSKA,Europe,Squaw-Valley,1960
-124,1500m women,Bronze,3,Poland,POL,Helena PILEJCZYK,Europe,Squaw-Valley,1960
-125,3000m women,Gold,1,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Squaw-Valley,1960
-126,3000m women,Silver,2,Soviet Union,URS,Valentina STENINA,Europe,Squaw-Valley,1960
-127,3000m women,Bronze,3,Finland,FIN,Eevi HUTTUNEN,Europe,Squaw-Valley,1960
-128,5000m men,Gold,1,Soviet Union,URS,Viktor KOSICHKIN,Europe,Squaw-Valley,1960
-129,5000m men,Silver,2,Norway,NOR,Knut JOHANNESEN,Europe,Squaw-Valley,1960
-130,5000m men,Bronze,3,Netherlands,NED,Janis PESMAN,Europe,Squaw-Valley,1960
-131,500m men,Gold,1,Soviet Union,URS,Yevgeny GRISHIN,Europe,Squaw-Valley,1960
-132,500m men,Silver,2,United States of America,USA,William DISNEY,North America,Squaw-Valley,1960
-133,500m men,Bronze,3,Soviet Union,URS,Rafael GRACH,Europe,Squaw-Valley,1960
-134,500m women,Gold,1,Germany,GER,Helga HAASE,Europe,Squaw-Valley,1960
-135,500m women,Silver,2,Soviet Union,URS,Nataliya Donchenko,Europe,Squaw-Valley,1960
-136,500m women,Bronze,3,United States of America,USA,Jeanne ASHWORTH,North America,Squaw-Valley,1960
-137,10000m men,Gold,1,Sweden,SWE,Jonny NILSSON,Europe,Innsbruck,1964
-138,10000m men,Silver,2,Norway,NOR,Fred Anton MAIER,Europe,Innsbruck,1964
-139,10000m men,Bronze,3,Norway,NOR,Knut JOHANNESEN,Europe,Innsbruck,1964
-140,1000m women,Gold,1,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Innsbruck,1964
-141,1000m women,Silver,2,Soviet Union,URS,Irina YEGOROVA,Europe,Innsbruck,1964
-142,1000m women,Bronze,3,Finland,FIN,Kaija MUSTONEN,Europe,Innsbruck,1964
-143,1500m men,Gold,1,Soviet Union,URS,Ants ANTSON,Europe,Innsbruck,1964
-144,1500m men,Silver,2,Netherlands,NED,Cornelis VERKERK,Europe,Innsbruck,1964
-145,1500m men,Bronze,3,Norway,NOR,Villy HAUGEN,Europe,Innsbruck,1964
-146,1500m women,Gold,1,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Innsbruck,1964
-147,1500m women,Silver,2,Finland,FIN,Kaija MUSTONEN,Europe,Innsbruck,1964
-148,1500m women,Bronze,3,Soviet Union,URS,Berta KOLOKOLTSEVA,Europe,Innsbruck,1964
-149,3000m women,Gold,1,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Innsbruck,1964
-150,3000m women,Silver,2,Democratic People's Republic of Korea,PRK,Pil-Hwa Han,Asia,Innsbruck,1964
-151,3000m women,Silver,2,Soviet Union,URS,Valentina STENINA,Europe,Innsbruck,1964
-152,5000m men,Gold,1,Norway,NOR,Knut JOHANNESEN,Europe,Innsbruck,1964
-153,5000m men,Silver,2,Norway,NOR,Per Ivar MOE,Europe,Innsbruck,1964
-154,5000m men,Bronze,3,Norway,NOR,Fred Anton MAIER,Europe,Innsbruck,1964
-155,500m men,Gold,1,United States of America,USA,Richard MCDERMOTT,North America,Innsbruck,1964
-156,500m men,Silver,2,Norway,NOR,Alv GJESTVANG,Europe,Innsbruck,1964
-157,500m men,Silver,2,Soviet Union,URS,Yevgeny GRISHIN,Europe,Innsbruck,1964
-158,500m men,Silver,2,Soviet Union,URS,Vladimir ORLOV,Europe,Innsbruck,1964
-159,500m women,Gold,1,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Innsbruck,1964
-160,500m women,Silver,2,Soviet Union,URS,Irina YEGOROVA,Europe,Innsbruck,1964
-161,500m women,Bronze,3,Soviet Union,URS,Tatyana SIDOROVA,Europe,Innsbruck,1964
-162,10000m men,Gold,1,Sweden,SWE,Johnny HÖGLIN,Europe,Grenoble,1968
-163,10000m men,Silver,2,Norway,NOR,Fred Anton MAIER,Europe,Grenoble,1968
-164,10000m men,Bronze,3,Sweden,SWE,Örjan SANDLER,Europe,Grenoble,1968
-165,1000m women,Gold,1,Netherlands,NED,Carolina GEIJSSEN,Europe,Grenoble,1968
-166,1000m women,Silver,2,Soviet Union,URS,Lyudmila TITOVA,Europe,Grenoble,1968
-167,1000m women,Bronze,3,United States of America,USA,Dianne HOLUM,North America,Grenoble,1968
-168,1500m men,Gold,1,Netherlands,NED,Cornelis VERKERK,Europe,Grenoble,1968
-169,1500m men,Silver,2,Norway,NOR,Ivar ERIKSEN,Europe,Grenoble,1968
-170,1500m men,Silver,2,Netherlands,NED,Ard SCHENK,Europe,Grenoble,1968
-171,1500m women,Gold,1,Finland,FIN,Kaija MUSTONEN,Europe,Grenoble,1968
-172,1500m women,Silver,2,Netherlands,NED,Carolina GEIJSSEN,Europe,Grenoble,1968
-173,1500m women,Bronze,3,Netherlands,NED,Stien Baas-Kaiser,Europe,Grenoble,1968
-174,3000m women,Gold,1,Netherlands,NED,Johanna SCHUT,Europe,Grenoble,1968
-175,3000m women,Silver,2,Finland,FIN,Kaija MUSTONEN,Europe,Grenoble,1968
-176,3000m women,Bronze,3,Netherlands,NED,Stien Baas-Kaiser,Europe,Grenoble,1968
-177,5000m men,Gold,1,Norway,NOR,Fred Anton MAIER,Europe,Grenoble,1968
-178,5000m men,Silver,2,Netherlands,NED,Cornelis VERKERK,Europe,Grenoble,1968
-179,5000m men,Bronze,3,Netherlands,NED,Petrus NOTTET,Europe,Grenoble,1968
-180,500m men,Gold,1,Federal Republic of Germany,FRG,Erhard KELLER,Europe,Grenoble,1968
-181,500m men,Silver,2,United States of America,USA,Richard MCDERMOTT,North America,Grenoble,1968
-182,500m men,Silver,2,Norway,NOR,Magne THOMASSEN,Europe,Grenoble,1968
-183,500m women,Gold,1,Soviet Union,URS,Lyudmila TITOVA,Europe,Grenoble,1968
-184,500m women,Silver,2,United States of America,USA,Jennifer FISH,North America,Grenoble,1968
-185,500m women,Silver,2,United States of America,USA,Dianne HOLUM,North America,Grenoble,1968
-186,500m women,Silver,2,United States of America,USA,Mary MEYERS,North America,Grenoble,1968
-187,10000m men,Gold,1,Netherlands,NED,Ard SCHENK,Europe,Sapporo,1972
-188,10000m men,Silver,2,Netherlands,NED,Cornelis VERKERK,Europe,Sapporo,1972
-189,10000m men,Bronze,3,Norway,NOR,Sten STENSEN,Europe,Sapporo,1972
-190,1000m women,Gold,1,Federal Republic of Germany,FRG,Monika HOLZNER-GAWENUS,Europe,Sapporo,1972
-191,1000m women,Silver,2,Netherlands,NED,Atje DEELSTRA,Europe,Sapporo,1972
-192,1000m women,Bronze,3,United States of America,USA,Anne HENNING,North America,Sapporo,1972
-193,1500m men,Gold,1,Netherlands,NED,Ard SCHENK,Europe,Sapporo,1972
-194,1500m men,Silver,2,Norway,NOR,Roar GRÖNVOLD,Europe,Sapporo,1972
-195,1500m men,Bronze,3,Sweden,SWE,Göran CLAESSON,Europe,Sapporo,1972
-196,1500m women,Gold,1,United States of America,USA,Dianne HOLUM,North America,Sapporo,1972
-197,1500m women,Silver,2,Netherlands,NED,Stien Baas-Kaiser,Europe,Sapporo,1972
-198,1500m women,Bronze,3,Netherlands,NED,Atje DEELSTRA,Europe,Sapporo,1972
-199,3000m women,Gold,1,Netherlands,NED,Stien Baas-Kaiser,Europe,Sapporo,1972
-200,3000m women,Silver,2,United States of America,USA,Dianne HOLUM,North America,Sapporo,1972
-201,3000m women,Bronze,3,Netherlands,NED,Atje DEELSTRA,Europe,Sapporo,1972
-202,5000m men,Gold,1,Netherlands,NED,Ard SCHENK,Europe,Sapporo,1972
-203,5000m men,Silver,2,Norway,NOR,Roar GRÖNVOLD,Europe,Sapporo,1972
-204,5000m men,Bronze,3,Norway,NOR,Sten STENSEN,Europe,Sapporo,1972
-205,500m men,Gold,1,Federal Republic of Germany,FRG,Erhard KELLER,Europe,Sapporo,1972
-206,500m men,Silver,2,Sweden,SWE,Hasse BÖRJES,Europe,Sapporo,1972
-207,500m men,Bronze,3,Soviet Union,URS,Valery MURATOV,Europe,Sapporo,1972
-208,500m women,Gold,1,United States of America,USA,Anne HENNING,North America,Sapporo,1972
-209,500m women,Silver,2,Soviet Union,URS,Vera KRASNOVA,Europe,Sapporo,1972
-210,500m women,Bronze,3,Soviet Union,URS,Lyudmila TITOVA,Europe,Sapporo,1972
-211,10000m men,Gold,1,Netherlands,NED,Piet KLEINE,Europe,Innsbruck,1976
-212,10000m men,Silver,2,Norway,NOR,Sten STENSEN,Europe,Innsbruck,1976
-213,10000m men,Bronze,3,Netherlands,NED,Hans VAN HELDEN,Europe,Innsbruck,1976
-214,1000m men,Gold,1,United States of America,USA,Peter MUELLER,North America,Innsbruck,1976
-215,1000m men,Silver,2,Norway,NOR,Jörn DIDRIKSEN,Europe,Innsbruck,1976
-216,1000m men,Bronze,3,Soviet Union,URS,Valery MURATOV,Europe,Innsbruck,1976
-217,1000m women,Gold,1,Soviet Union,URS,Tatyana AVERINA,Europe,Innsbruck,1976
-218,1000m women,Silver,2,United States of America,USA,Leah MUELLER,North America,Innsbruck,1976
-219,1000m women,Bronze,3,United States of America,USA,Sheila YOUNG,North America,Innsbruck,1976
-220,1500m men,Gold,1,Norway,NOR,Jan Egil STORHOLT,Europe,Innsbruck,1976
-221,1500m men,Silver,2,Soviet Union,URS,Yury KONDAKOV,Europe,Innsbruck,1976
-222,1500m men,Bronze,3,Netherlands,NED,Hans VAN HELDEN,Europe,Innsbruck,1976
-223,1500m women,Gold,1,Soviet Union,URS,Galina STEPANSKAYA,Europe,Innsbruck,1976
-224,1500m women,Silver,2,United States of America,USA,Sheila YOUNG,North America,Innsbruck,1976
-225,1500m women,Bronze,3,Soviet Union,URS,Tatyana AVERINA,Europe,Innsbruck,1976
-226,3000m women,Gold,1,Soviet Union,URS,Tatyana AVERINA,Europe,Innsbruck,1976
-227,3000m women,Silver,2,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Innsbruck,1976
-228,3000m women,Bronze,3,Norway,NOR,Lisbeth KORSMO,Europe,Innsbruck,1976
-229,5000m men,Gold,1,Norway,NOR,Sten STENSEN,Europe,Innsbruck,1976
-230,5000m men,Silver,2,Netherlands,NED,Piet KLEINE,Europe,Innsbruck,1976
-231,5000m men,Bronze,3,Netherlands,NED,Hans VAN HELDEN,Europe,Innsbruck,1976
-232,500m men,Gold,1,Soviet Union,URS,Yevgeny KULIKOV,Europe,Innsbruck,1976
-233,500m men,Silver,2,Soviet Union,URS,Valery MURATOV,Europe,Innsbruck,1976
-234,500m men,Bronze,3,United States of America,USA,Daniel IMMERFALL,North America,Innsbruck,1976
-235,500m women,Gold,1,United States of America,USA,Sheila YOUNG,North America,Innsbruck,1976
-236,500m women,Silver,2,Canada,CAN,Cathy PRIESTNER,North America,Innsbruck,1976
-237,500m women,Bronze,3,Soviet Union,URS,Tatyana AVERINA,Europe,Innsbruck,1976
-238,10000m men,Gold,1,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980
-239,10000m men,Silver,2,Netherlands,NED,Piet KLEINE,Europe,Lake-Placid,1980
-240,10000m men,Bronze,3,Norway,NOR,Tom Erik OXHOLM,Europe,Lake-Placid,1980
-241,1000m men,Gold,1,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980
-242,1000m men,Silver,2,Canada,CAN,Gaetan BOUCHER,North America,Lake-Placid,1980
-243,1000m men,Bronze,3,Soviet Union,URS,Vladimir LOBANOV,Europe,Lake-Placid,1980
-244,1000m men,Bronze,3,Norway,NOR,Frode RÖNNING,Europe,Lake-Placid,1980
-245,1000m women,Gold,1,Soviet Union,URS,Nataliya Petrusyova,Europe,Lake-Placid,1980
-246,1000m women,Silver,2,United States of America,USA,Leah MUELLER,North America,Lake-Placid,1980
-247,1000m women,Bronze,3,German Democratic Republic (Germany),GDR,Sylvia Albrecht,Europe,Lake-Placid,1980
-248,1500m men,Gold,1,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980
-249,1500m men,Silver,2,Norway,NOR,Kai Arne STENSHJEMMET,Europe,Lake-Placid,1980
-250,1500m men,Bronze,3,Norway,NOR,Terje ANDERSEN,Europe,Lake-Placid,1980
-251,1500m women,Gold,1,Netherlands,NED,Annie BORCKINK,Europe,Lake-Placid,1980
-252,1500m women,Silver,2,Netherlands,NED,Adriana VISSER,Europe,Lake-Placid,1980
-253,1500m women,Bronze,3,German Democratic Republic (Germany),GDR,Sabine BECKER,Europe,Lake-Placid,1980
-254,3000m women,Gold,1,Norway,NOR,Björg Eva JENSEN,Europe,Lake-Placid,1980
-255,3000m women,Silver,2,German Democratic Republic (Germany),GDR,Sabine BECKER,Europe,Lake-Placid,1980
-256,3000m women,Bronze,3,United States of America,USA,Beth HEIDEN,North America,Lake-Placid,1980
-257,5000m men,Gold,1,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980
-258,5000m men,Silver,2,Norway,NOR,Kai Arne STENSHJEMMET,Europe,Lake-Placid,1980
-259,5000m men,Bronze,3,Norway,NOR,Tom Erik OXHOLM,Europe,Lake-Placid,1980
-260,500m men,Gold,1,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980
-261,500m men,Silver,2,Soviet Union,URS,Yevgeny KULIKOV,Europe,Lake-Placid,1980
-262,500m men,Bronze,3,Netherlands,NED,Lieuwe DE BOER,Europe,Lake-Placid,1980
-263,500m women,Gold,1,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Lake-Placid,1980
-264,500m women,Silver,2,United States of America,USA,Leah MUELLER,North America,Lake-Placid,1980
-265,500m women,Bronze,3,Soviet Union,URS,Nataliya Petrusyova,Europe,Lake-Placid,1980
-266,10000m men,Gold,1,Soviet Union,URS,Igor MALKOV,Europe,Sarajevo,1984
-267,10000m men,Silver,2,Sweden,SWE,Tomas GUSTAFSON,Europe,Sarajevo,1984
-268,10000m men,Bronze,3,German Democratic Republic (Germany),GDR,René SCHÖFISCH,Europe,Sarajevo,1984
-269,1000m men,Gold,1,Canada,CAN,Gaetan BOUCHER,North America,Sarajevo,1984
-270,1000m men,Silver,2,Soviet Union,URS,Sergey KHLEBNIKOV,Europe,Sarajevo,1984
-271,1000m men,Bronze,3,Norway,NOR,Kai Arne ENGELSTAD,Europe,Sarajevo,1984
-272,1000m women,Gold,1,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Sarajevo,1984
-273,1000m women,Silver,2,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Sarajevo,1984
-274,1000m women,Bronze,3,Soviet Union,URS,Nataliya Petrusyova,Europe,Sarajevo,1984
-275,1500m men,Gold,1,Canada,CAN,Gaetan BOUCHER,North America,Sarajevo,1984
-276,1500m men,Silver,2,Soviet Union,URS,Sergey KHLEBNIKOV,Europe,Sarajevo,1984
-277,1500m men,Bronze,3,Soviet Union,URS,Oleg BOZHYEV,Europe,Sarajevo,1984
-278,1500m women,Gold,1,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Sarajevo,1984
-279,1500m women,Silver,2,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Sarajevo,1984
-280,1500m women,Bronze,3,Soviet Union,URS,Nataliya Petrusyova,Europe,Sarajevo,1984
-281,3000m women,Gold,1,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Sarajevo,1984
-282,3000m women,Silver,2,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Sarajevo,1984
-283,3000m women,Bronze,3,German Democratic Republic (Germany),GDR,Gabi ZANGE,Europe,Sarajevo,1984
-284,5000m men,Gold,1,Sweden,SWE,Tomas GUSTAFSON,Europe,Sarajevo,1984
-285,5000m men,Silver,2,Soviet Union,URS,Igor MALKOV,Europe,Sarajevo,1984
-286,5000m men,Bronze,3,German Democratic Republic (Germany),GDR,René SCHÖFISCH,Europe,Sarajevo,1984
-287,500m men,Gold,1,Soviet Union,URS,Sergey FOKICHEV,Europe,Sarajevo,1984
-288,500m men,Silver,2,Japan,JPN,Yoshihiro KITAZAWA,Asia,Sarajevo,1984
-289,500m men,Bronze,3,Canada,CAN,Gaetan BOUCHER,North America,Sarajevo,1984
-290,500m women,Gold,1,German Democratic Republic (Germany),GDR,Christa LUDING-ROTHENBURGER,Europe,Sarajevo,1984
-291,500m women,Silver,2,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Sarajevo,1984
-292,500m women,Bronze,3,Soviet Union,URS,Nataliya Shive-Glebova,Europe,Sarajevo,1984
-293,10000m men,Gold,1,Sweden,SWE,Tomas GUSTAFSON,Europe,Calgary,1988
-294,10000m men,Silver,2,Austria,AUT,Michael HADSCHIEFF,Europe,Calgary,1988
-295,10000m men,Bronze,3,Netherlands,NED,Leo VISSER,Europe,Calgary,1988
-296,1000m men,Gold,1,Soviet Union,URS,Nikolay GULYAEV,Europe,Calgary,1988
-297,1000m men,Silver,2,German Democratic Republic (Germany),GDR,Uwe-Jens MEY,Europe,Calgary,1988
-298,1000m men,Bronze,3,Soviet Union,URS,Igor ZHELEZOVSKY,Europe,Calgary,1988
-299,1000m women,Gold,1,German Democratic Republic (Germany),GDR,Christa LUDING-ROTHENBURGER,Europe,Calgary,1988
-300,1000m women,Silver,2,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Calgary,1988
-301,1000m women,Bronze,3,United States of America,USA,Bonnie BLAIR,North America,Calgary,1988
-302,1500m men,Gold,1,German Democratic Republic (Germany),GDR,Andre HOFFMANN,Europe,Calgary,1988
-303,1500m men,Silver,2,United States of America,USA,Eric FLAIM,North America,Calgary,1988
-304,1500m men,Bronze,3,Austria,AUT,Michael HADSCHIEFF,Europe,Calgary,1988
-305,1500m women,Gold,1,Netherlands,NED,Yvonne VAN GENNIP,Europe,Calgary,1988
-306,1500m women,Silver,2,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Calgary,1988
-307,1500m women,Bronze,3,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Calgary,1988
-308,3000m women,Gold,1,Netherlands,NED,Yvonne VAN GENNIP,Europe,Calgary,1988
-309,3000m women,Silver,2,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Calgary,1988
-310,3000m women,Bronze,3,German Democratic Republic (Germany),GDR,Gabi ZANGE,Europe,Calgary,1988
-311,5000m men,Gold,1,Sweden,SWE,Tomas GUSTAFSON,Europe,Calgary,1988
-312,5000m men,Silver,2,Netherlands,NED,Leo VISSER,Europe,Calgary,1988
-313,5000m men,Bronze,3,Netherlands,NED,Gerard KEMKERS,Europe,Calgary,1988
-314,5000m women,Gold,1,Netherlands,NED,Yvonne VAN GENNIP,Europe,Calgary,1988
-315,5000m women,Silver,2,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Calgary,1988
-316,5000m women,Bronze,3,German Democratic Republic (Germany),GDR,Gabi ZANGE,Europe,Calgary,1988
-317,500m men,Gold,1,German Democratic Republic (Germany),GDR,Uwe-Jens MEY,Europe,Calgary,1988
-318,500m men,Silver,2,Netherlands,NED,Jan YKEMA,Europe,Calgary,1988
-319,500m men,Bronze,3,Japan,JPN,Akira KUROIWA,Asia,Calgary,1988
-320,500m women,Gold,1,United States of America,USA,Bonnie BLAIR,North America,Calgary,1988
-321,500m women,Silver,2,German Democratic Republic (Germany),GDR,Christa LUDING-ROTHENBURGER,Europe,Calgary,1988
-322,500m women,Bronze,3,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Calgary,1988
-323,10000m men,Gold,1,Netherlands,NED,Bart VELDKAMP,Europe,Albertville,1992
-324,10000m men,Silver,2,Norway,NOR,Johann Olav KOSS,Europe,Albertville,1992
-325,10000m men,Bronze,3,Norway,NOR,Geir KARLSTAD,Europe,Albertville,1992
-326,1000m men,Gold,1,Germany,GER,Olaf ZINKE,Europe,Albertville,1992
-327,1000m men,Silver,2,Republic of Korea,KOR,Yoon-Man KIM,Asia,Albertville,1992
-328,1000m men,Bronze,3,Japan,JPN,Yukinori MIYABE,Asia,Albertville,1992
-329,1000m women,Gold,1,United States of America,USA,Bonnie BLAIR,North America,Albertville,1992
-330,1000m women,Silver,2,People's Republic of China,CHN,Qiaobo YE,Asia,Albertville,1992
-331,1000m women,Bronze,3,Germany,GER,Monique GARBRECHT-ENFELDT,Europe,Albertville,1992
-332,1500m men,Gold,1,Norway,NOR,Johann Olav KOSS,Europe,Albertville,1992
-333,1500m men,Silver,2,Norway,NOR,Adne SONDRAL,Europe,Albertville,1992
-334,1500m men,Bronze,3,Netherlands,NED,Leo VISSER,Europe,Albertville,1992
-335,1500m women,Gold,1,Germany,GER,Jacqueline BÖRNER,Europe,Albertville,1992
-336,1500m women,Silver,2,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Albertville,1992
-337,1500m women,Bronze,3,Japan,JPN,Seiko HASHIMOTO,Asia,Albertville,1992
-338,3000m women,Gold,1,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Albertville,1992
-339,3000m women,Silver,2,Germany,GER,Heike WARNICKE,Europe,Albertville,1992
-340,3000m women,Bronze,3,Austria,AUT,Emese HUNYADY,Europe,Albertville,1992
-341,5000m men,Gold,1,Norway,NOR,Geir KARLSTAD,Europe,Albertville,1992
-342,5000m men,Silver,2,Netherlands,NED,Falko ZANDSTRA,Europe,Albertville,1992
-343,5000m men,Bronze,3,Netherlands,NED,Leo VISSER,Europe,Albertville,1992
-344,5000m women,Gold,1,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Albertville,1992
-345,5000m women,Silver,2,Germany,GER,Heike WARNICKE,Europe,Albertville,1992
-346,5000m women,Bronze,3,Germany,GER,Claudia PECHSTEIN,Europe,Albertville,1992
-347,500m men,Gold,1,Germany,GER,Uwe-Jens MEY,Europe,Albertville,1992
-348,500m men,Silver,2,Japan,JPN,Toshiyuki KUROIWA,Asia,Albertville,1992
-349,500m men,Bronze,3,Japan,JPN,Junichi INOUE,Asia,Albertville,1992
-350,500m women,Gold,1,United States of America,USA,Bonnie BLAIR,North America,Albertville,1992
-351,500m women,Silver,2,People's Republic of China,CHN,Qiaobo YE,Asia,Albertville,1992
-352,500m women,Bronze,3,Germany,GER,Christa LUDING-ROTHENBURGER,Europe,Albertville,1992
-353,10000m men,Gold,1,Norway,NOR,Johann Olav KOSS,Europe,Lillehammer,1994
-354,10000m men,Silver,2,Norway,NOR,Kjell STORELID,Europe,Lillehammer,1994
-355,10000m men,Bronze,3,Netherlands,NED,Bart VELDKAMP,Europe,Lillehammer,1994
-356,1000m men,Gold,1,United States of America,USA,Daniel JANSEN,North America,Lillehammer,1994
-357,1000m men,Silver,2,Belarus,BLR,Igor ZHELEZOVSKY,Europe,Lillehammer,1994
-358,1000m men,Bronze,3,Russian Federation,RUS,Sergey KLEVCHENYA,Europe,Lillehammer,1994
-359,1000m women,Gold,1,United States of America,USA,Bonnie BLAIR,North America,Lillehammer,1994
-360,1000m women,Silver,2,Germany,GER,Anke BAIER-LOEF,Europe,Lillehammer,1994
-361,1000m women,Bronze,3,People's Republic of China,CHN,Qiaobo YE,Asia,Lillehammer,1994
-362,1500m men,Gold,1,Norway,NOR,Johann Olav KOSS,Europe,Lillehammer,1994
-363,1500m men,Silver,2,Netherlands,NED,Rintje RITSMA,Europe,Lillehammer,1994
-364,1500m men,Bronze,3,Netherlands,NED,Falko ZANDSTRA,Europe,Lillehammer,1994
-365,1500m women,Gold,1,Austria,AUT,Emese HUNYADY,Europe,Lillehammer,1994
-366,1500m women,Silver,2,Russian Federation,RUS,Svetlana FEDOTKINA,Europe,Lillehammer,1994
-367,1500m women,Bronze,3,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Lillehammer,1994
-368,3000m women,Gold,1,Russian Federation,RUS,Svetlana BAJANOVA,Europe,Lillehammer,1994
-369,3000m women,Silver,2,Austria,AUT,Emese HUNYADY,Europe,Lillehammer,1994
-370,3000m women,Bronze,3,Germany,GER,Claudia PECHSTEIN,Europe,Lillehammer,1994
-371,5000m men,Gold,1,Norway,NOR,Johann Olav KOSS,Europe,Lillehammer,1994
-372,5000m men,Silver,2,Norway,NOR,Kjell STORELID,Europe,Lillehammer,1994
-373,5000m men,Bronze,3,Netherlands,NED,Rintje RITSMA,Europe,Lillehammer,1994
-374,5000m women,Gold,1,Germany,GER,Claudia PECHSTEIN,Europe,Lillehammer,1994
-375,5000m women,Silver,2,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Lillehammer,1994
-376,5000m women,Bronze,3,Japan,JPN,Hiromi YAMAMOTO,Asia,Lillehammer,1994
-377,500m men,Gold,1,Russian Federation,RUS,Aleksandr GOLUBEV,Europe,Lillehammer,1994
-378,500m men,Silver,2,Russian Federation,RUS,Sergey KLEVCHENYA,Europe,Lillehammer,1994
-379,500m men,Bronze,3,Japan,JPN,Manabu HORII,Asia,Lillehammer,1994
-380,500m women,Gold,1,United States of America,USA,Bonnie BLAIR,North America,Lillehammer,1994
-381,500m women,Silver,2,Canada,CAN,Susan AUCH,North America,Lillehammer,1994
-382,500m women,Bronze,3,Germany,GER,Franziska SCHENK,Europe,Lillehammer,1994
-383,10000m men,Gold,1,Netherlands,NED,Gianni ROMME,Europe,Nagano,1998
-384,10000m men,Silver,2,Netherlands,NED,Bob Johannes Carolus DE JONG,Europe,Nagano,1998
-385,10000m men,Bronze,3,Netherlands,NED,Rintje RITSMA,Europe,Nagano,1998
-386,1000m men,Gold,1,Netherlands,NED,Ids POSTMA,Europe,Nagano,1998
-387,1000m men,Silver,2,Netherlands,NED,Jan BOS,Europe,Nagano,1998
-388,1000m men,Bronze,3,Japan,JPN,Hiroyasu SHIMIZU,Asia,Nagano,1998
-389,1000m women,Gold,1,Netherlands,NED,Marianne TIMMER,Europe,Nagano,1998
-390,1000m women,Silver,2,United States of America,USA,Christine WITTY,North America,Nagano,1998
-391,1000m women,Bronze,3,Canada,CAN,Catriona LE MAY DOAN,North America,Nagano,1998
-392,1500m men,Gold,1,Norway,NOR,Adne SONDRAL,Europe,Nagano,1998
-393,1500m men,Silver,2,Netherlands,NED,Ids POSTMA,Europe,Nagano,1998
-394,1500m men,Bronze,3,Netherlands,NED,Rintje RITSMA,Europe,Nagano,1998
-395,1500m women,Gold,1,Netherlands,NED,Marianne TIMMER,Europe,Nagano,1998
-396,1500m women,Silver,2,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Nagano,1998
-397,1500m women,Bronze,3,United States of America,USA,Christine WITTY,North America,Nagano,1998
-398,3000m women,Gold,1,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Nagano,1998
-399,3000m women,Silver,2,Germany,GER,Claudia PECHSTEIN,Europe,Nagano,1998
-400,3000m women,Bronze,3,Germany,GER,Anni FRIESINGER,Europe,Nagano,1998
-401,5000m men,Gold,1,Netherlands,NED,Gianni ROMME,Europe,Nagano,1998
-402,5000m men,Silver,2,Netherlands,NED,Rintje RITSMA,Europe,Nagano,1998
-403,5000m men,Bronze,3,Belgium,BEL,Bart VELDKAMP,Europe,Nagano,1998
-404,5000m women,Gold,1,Germany,GER,Claudia PECHSTEIN,Europe,Nagano,1998
-405,5000m women,Silver,2,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Nagano,1998
-406,5000m women,Bronze,3,Kazakhstan,KAZ,Lyudmila PROKASHEVA,Asia,Nagano,1998
-407,500m men,Gold,1,Japan,JPN,Hiroyasu SHIMIZU,Asia,Nagano,1998
-408,500m men,Silver,2,Canada,CAN,Jeremy WOTHERSPOON,North America,Nagano,1998
-409,500m men,Bronze,3,Canada,CAN,Kevin OVERLAND,North America,Nagano,1998
-410,500m women,Gold,1,Canada,CAN,Catriona LE MAY DOAN,North America,Nagano,1998
-411,500m women,Silver,2,Canada,CAN,Susan AUCH,North America,Nagano,1998
-412,500m women,Bronze,3,Japan,JPN,Tomomi OKAZAKI,Asia,Nagano,1998
-413,10000m men,Gold,1,Netherlands,NED,Jochem UYTDEHAAGE,Europe,Salt-Lake-City,2002
-414,10000m men,Silver,2,Netherlands,NED,Gianni ROMME,Europe,Salt-Lake-City,2002
-415,10000m men,Bronze,3,Norway,NOR,Lasse SAETRE,Europe,Salt-Lake-City,2002
-416,1000m men,Gold,1,Netherlands,NED,Gerard VAN VELDE,Europe,Salt-Lake-City,2002
-417,1000m men,Silver,2,Netherlands,NED,Jan BOS,Europe,Salt-Lake-City,2002
-418,1000m men,Bronze,3,United States of America,USA,Joey CHEEK,North America,Salt-Lake-City,2002
-419,1000m women,Gold,1,United States of America,USA,Christine WITTY,North America,Salt-Lake-City,2002
-420,1000m women,Silver,2,Germany,GER,Sabine VOELKER,Europe,Salt-Lake-City,2002
-421,1000m women,Bronze,3,United States of America,USA,Jennifer RODRIGUEZ,North America,Salt-Lake-City,2002
-422,1500m men,Gold,1,United States of America,USA,Derek PARRA,North America,Salt-Lake-City,2002
-423,1500m men,Silver,2,Netherlands,NED,Jochem UYTDEHAAGE,Europe,Salt-Lake-City,2002
-424,1500m men,Bronze,3,Norway,NOR,Adne SONDRAL,Europe,Salt-Lake-City,2002
-425,1500m women,Gold,1,Germany,GER,Anni FRIESINGER,Europe,Salt-Lake-City,2002
-426,1500m women,Silver,2,Germany,GER,Sabine VOELKER,Europe,Salt-Lake-City,2002
-427,1500m women,Bronze,3,United States of America,USA,Jennifer RODRIGUEZ,North America,Salt-Lake-City,2002
-428,3000m women,Gold,1,Germany,GER,Claudia PECHSTEIN,Europe,Salt-Lake-City,2002
-429,3000m women,Silver,2,Netherlands,NED,Renate GROENEWOLD,Europe,Salt-Lake-City,2002
-430,3000m women,Bronze,3,Canada,CAN,Cindy KLASSEN,North America,Salt-Lake-City,2002
-431,5000m men,Gold,1,Netherlands,NED,Jochem UYTDEHAAGE,Europe,Salt-Lake-City,2002
-432,5000m men,Silver,2,United States of America,USA,Derek PARRA,North America,Salt-Lake-City,2002
-433,5000m men,Bronze,3,Germany,GER,Jens BODEN,Europe,Salt-Lake-City,2002
-434,5000m women,Gold,1,Germany,GER,Claudia PECHSTEIN,Europe,Salt-Lake-City,2002
-435,5000m women,Silver,2,Netherlands,NED,Gretha SMIT,Europe,Salt-Lake-City,2002
-436,5000m women,Bronze,3,Canada,CAN,Clara HUGHES,North America,Salt-Lake-City,2002
-437,500m men,Gold,1,United States of America,USA,Casey FITZRANDOLPH,North America,Salt-Lake-City,2002
-438,500m men,Silver,2,Japan,JPN,Hiroyasu SHIMIZU,Asia,Salt-Lake-City,2002
-439,500m men,Bronze,3,United States of America,USA,Kip CARPENTER,North America,Salt-Lake-City,2002
-440,500m women,Gold,1,Canada,CAN,Catriona LE MAY DOAN,North America,Salt-Lake-City,2002
-441,500m women,Silver,2,Germany,GER,Monique GARBRECHT-ENFELDT,Europe,Salt-Lake-City,2002
-442,500m women,Bronze,3,Germany,GER,Sabine VOELKER,Europe,Salt-Lake-City,2002
-443,10000m men,Gold,1,Netherlands,NED,Bob Johannes Carolus DE JONG,Europe,Turin,2006
-444,10000m men,Silver,2,United States of America,USA,Chad HEDRICK,North America,Turin,2006
-445,10000m men,Bronze,3,Netherlands,NED,Carl VERHEIJEN,Europe,Turin,2006
-446,1000m men,Gold,1,United States of America,USA,Shani DAVIS,North America,Turin,2006
-447,1000m men,Gold,1,United States of America,USA,Joey CHEEK,North America,Turin,2006
-448,1000m men,Silver,2,United States of America,USA,Joey CHEEK,North America,Turin,2006
-449,1000m men,Silver,2,Russian Federation,RUS,Dmitry DOROFEYEV,Europe,Turin,2006
-450,1000m men,Bronze,3,Netherlands,NED,Erben WENNEMARS,Europe,Turin,2006
-451,1000m men,Bronze,3,Republic of Korea,KOR,Kang Seok LEE,Asia,Turin,2006
-452,1000m women,Gold,1,Russian Federation,RUS,Svetlana ZHUROVA,Europe,Turin,2006
-453,1000m women,Gold,1,Netherlands,NED,Marianne TIMMER,Europe,Turin,2006
-454,1000m women,Silver,2,People's Republic of China,CHN,Manli WANG,Asia,Turin,2006
-455,1000m women,Silver,2,Canada,CAN,Cindy KLASSEN,North America,Turin,2006
-456,1000m women,Bronze,3,People's Republic of China,CHN,Hui REN,Asia,Turin,2006
-457,1000m women,Bronze,3,Germany,GER,Anni FRIESINGER,Europe,Turin,2006
-458,1500m men,Gold,1,Italy,ITA,Enrico FABRIS,Europe,Turin,2006
-459,1500m men,Silver,2,United States of America,USA,Shani DAVIS,North America,Turin,2006
-460,1500m men,Bronze,3,United States of America,USA,Chad HEDRICK,North America,Turin,2006
-461,1500m women,Gold,1,Canada,CAN,Cindy KLASSEN,North America,Turin,2006
-462,1500m women,Silver,2,Canada,CAN,Kristina GROVES,North America,Turin,2006
-463,1500m women,Bronze,3,Netherlands,NED,Ireen WÜST,Europe,Turin,2006
-464,3000m women,Gold,1,Netherlands,NED,Ireen WÜST,Europe,Turin,2006
-465,3000m women,Silver,2,Netherlands,NED,Renate GROENEWOLD,Europe,Turin,2006
-466,3000m women,Bronze,3,Canada,CAN,Cindy KLASSEN,North America,Turin,2006
-467,5000m men,Gold,1,United States of America,USA,Chad HEDRICK,North America,Turin,2006
-468,5000m men,Silver,2,Netherlands,NED,Sven KRAMER,Europe,Turin,2006
-469,5000m men,Bronze,3,Italy,ITA,Enrico FABRIS,Europe,Turin,2006
-470,5000m women,Gold,1,Canada,CAN,Clara HUGHES,North America,Turin,2006
-471,5000m women,Silver,2,Germany,GER,Claudia PECHSTEIN,Europe,Turin,2006
-472,5000m women,Bronze,3,Canada,CAN,Cindy KLASSEN,North America,Turin,2006
-473,Team pursuit men,Gold,1,Italy,ITA,Team Italy,Europe,Turin,2006
-474,Team pursuit men,Silver,2,Canada,CAN,Team Canada,North America,Turin,2006
-475,Team pursuit men,Bronze,3,Netherlands,NED,Team Netherlands,Europe,Turin,2006
-476,Team pursuit women,Gold,1,Germany,GER,Team Germany,Europe,Turin,2006
-477,Team pursuit women,Silver,2,Canada,CAN,Team Canada,North America,Turin,2006
-478,Team pursuit women,Bronze,3,Russian Federation,RUS,Team Russian Federation,Europe,Turin,2006
-479,10000m men,Gold,1,Republic of Korea,KOR,Seung Hoon LEE,Asia,Vancouver,2010
-480,10000m men,Silver,2,Russian Federation,RUS,Ivan SKOBREV,Europe,Vancouver,2010
-481,10000m men,Bronze,3,Netherlands,NED,Bob Johannes Carolus DE JONG,Europe,Vancouver,2010
-482,1000m men,Gold,1,United States of America,USA,Shani DAVIS,North America,Vancouver,2010
-483,1000m men,Gold,1,Republic of Korea,KOR,Tae-Bum MO,Asia,Vancouver,2010
-484,1000m men,Silver,2,Republic of Korea,KOR,Tae-Bum MO,Asia,Vancouver,2010
-485,1000m men,Silver,2,Japan,JPN,Keiichiro NAGASHIMA,Asia,Vancouver,2010
-486,1000m men,Bronze,3,United States of America,USA,Chad HEDRICK,North America,Vancouver,2010
-487,1000m men,Bronze,3,Japan,JPN,Joji KATO,Asia,Vancouver,2010
-488,1000m women,Gold,1,Canada,CAN,Christine NESBITT,North America,Vancouver,2010
-489,1000m women,Gold,1,Republic of Korea,KOR,Sang-Hwa LEE,Asia,Vancouver,2010
-490,1000m women,Silver,2,Netherlands,NED,Annette GERRITSEN,Europe,Vancouver,2010
-491,1000m women,Silver,2,Germany,GER,Jenny WOLF,Europe,Vancouver,2010
-492,1000m women,Bronze,3,Netherlands,NED,Laurine VAN RIESSEN,Europe,Vancouver,2010
-493,1000m women,Bronze,3,People's Republic of China,CHN,Beixing WANG,Asia,Vancouver,2010
-494,1500m men,Gold,1,Netherlands,NED,Mark TUITERT,Europe,Vancouver,2010
-495,1500m men,Silver,2,United States of America,USA,Shani DAVIS,North America,Vancouver,2010
-496,1500m men,Bronze,3,Norway,NOR,Havard BOKKO,Europe,Vancouver,2010
-497,1500m women,Gold,1,Netherlands,NED,Ireen WÜST,Europe,Vancouver,2010
-498,1500m women,Silver,2,Canada,CAN,Kristina GROVES,North America,Vancouver,2010
-499,1500m women,Bronze,3,Czech Republic,CZE,Martina SABLIKOVA,Europe,Vancouver,2010
-500,3000m women,Gold,1,Czech Republic,CZE,Martina SABLIKOVA,Europe,Vancouver,2010
-501,3000m women,Silver,2,Germany,GER,Stephanie BECKERT,Europe,Vancouver,2010
-502,3000m women,Bronze,3,Canada,CAN,Kristina GROVES,North America,Vancouver,2010
-503,5000m men,Gold,1,Netherlands,NED,Sven KRAMER,Europe,Vancouver,2010
-504,5000m men,Silver,2,Republic of Korea,KOR,Seung Hoon LEE,Asia,Vancouver,2010
-505,5000m men,Bronze,3,Russian Federation,RUS,Ivan SKOBREV,Europe,Vancouver,2010
-506,5000m women,Gold,1,Czech Republic,CZE,Martina SABLIKOVA,Europe,Vancouver,2010
-507,5000m women,Silver,2,Germany,GER,Stephanie BECKERT,Europe,Vancouver,2010
-508,5000m women,Bronze,3,Canada,CAN,Clara HUGHES,North America,Vancouver,2010
-509,Team pursuit men,Gold,1,Canada,CAN,Team Canada,North America,Vancouver,2010
-510,Team pursuit men,Silver,2,United States of America,USA,Team United States of America,North America,Vancouver,2010
-511,Team pursuit men,Bronze,3,Netherlands,NED,Team Netherlands,Europe,Vancouver,2010
-512,Team pursuit women,Gold,1,Germany,GER,Team Germany,Europe,Vancouver,2010
-513,Team pursuit women,Silver,2,Japan,JPN,Team Japan,Asia,Vancouver,2010
-514,Team pursuit women,Bronze,3,Poland,POL,Team Poland,Europe,Vancouver,2010
-515,10000m men,Gold,1,Netherlands,NED,Jorrit BERGSMA,Europe,Sochi,2014
-516,10000m men,Silver,2,Netherlands,NED,Sven KRAMER,Europe,Sochi,2014
-517,10000m men,Bronze,3,Netherlands,NED,Bob Johannes Carolus DE JONG,Europe,Sochi,2014
-518,1000m men,Gold,1,Netherlands,NED,Stefan GROOTHUIS,Europe,Sochi,2014
-519,1000m men,Gold,1,Netherlands,NED,Michel MULDER,Europe,Sochi,2014
-520,1000m men,Silver,2,Canada,CAN,Denny MORRISON,North America,Sochi,2014
-521,1000m men,Silver,2,Netherlands,NED,Jan SMEEKENS,Europe,Sochi,2014
-522,1000m men,Bronze,3,Netherlands,NED,Michel MULDER,Europe,Sochi,2014
-523,1000m men,Bronze,3,Netherlands,NED,Ronald MULDER,Europe,Sochi,2014
-524,1000m women,Gold,1,Republic of Korea,KOR,Sang-Hwa LEE,Asia,Sochi,2014
-525,1000m women,Gold,1,People's Republic of China,CHN,Hong ZHANG,Asia,Sochi,2014
-526,1000m women,Silver,2,Russian Federation,RUS,Olga FATKULINA,Europe,Sochi,2014
-527,1000m women,Silver,2,Netherlands,NED,Ireen WÜST,Europe,Sochi,2014
-528,1000m women,Bronze,3,Netherlands,NED,Margot BOER,Europe,Sochi,2014
-529,1000m women,Bronze,3,Netherlands,NED,Margot BOER,Europe,Sochi,2014
-530,1500m men,Gold,1,Poland,POL,Zbigniew BRODKA,Europe,Sochi,2014
-531,1500m men,Silver,2,Netherlands,NED,Koen VERWEIJ,Europe,Sochi,2014
-532,1500m men,Bronze,3,Canada,CAN,Denny MORRISON,North America,Sochi,2014
-533,1500m women,Gold,1,Netherlands,NED,Jorien TER MORS,Europe,Sochi,2014
-534,1500m women,Silver,2,Netherlands,NED,Ireen WÜST,Europe,Sochi,2014
-535,1500m women,Bronze,3,Netherlands,NED,Lotte VAN BEEK,Europe,Sochi,2014
-536,3000m women,Gold,1,Netherlands,NED,Ireen WÜST,Europe,Sochi,2014
-537,3000m women,Silver,2,Czech Republic,CZE,Martina SABLIKOVA,Europe,Sochi,2014
-538,3000m women,Bronze,3,Russian Federation,RUS,Olga GRAF,Europe,Sochi,2014
-539,5000m men,Gold,1,Netherlands,NED,Sven KRAMER,Europe,Sochi,2014
-540,5000m men,Silver,2,Netherlands,NED,Jan BLOKHUIJSEN,Europe,Sochi,2014
-541,5000m men,Bronze,3,Netherlands,NED,Jorrit BERGSMA,Europe,Sochi,2014
-542,5000m women,Gold,1,Czech Republic,CZE,Martina SABLIKOVA,Europe,Sochi,2014
-543,5000m women,Silver,2,Netherlands,NED,Ireen WÜST,Europe,Sochi,2014
-544,5000m women,Bronze,3,Netherlands,NED,Carien KLEIBEUKER,Europe,Sochi,2014
-545,Team pursuit men,Gold,1,Netherlands,NED,Team Netherlands,Europe,Sochi,2014
-546,Team pursuit men,Silver,2,Republic of Korea,KOR,Team Republic of Korea,Asia,Sochi,2014
-547,Team pursuit men,Bronze,3,Poland,POL,Team Poland,Europe,Sochi,2014
-548,Team pursuit women,Gold,1,Netherlands,NED,Team Netherlands,Europe,Sochi,2014
-549,Team pursuit women,Silver,2,Poland,POL,Team Poland,Europe,Sochi,2014
-550,Team pursuit women,Bronze,3,Russian Federation,RUS,Team Russian Federation,Europe,Sochi,2014
-551,10000m men,Gold,1,Canada,CAN,Ted-Jan BLOEMEN,North America,Pyeongchang,2018
-552,10000m men,Silver,2,Netherlands,NED,Jorrit BERGSMA,Europe,Pyeongchang,2018
-553,10000m men,Bronze,3,Italy,ITA,Nicola TUMOLERO,Europe,Pyeongchang,2018
-554,1000m men,Gold,1,Netherlands,NED,Kjeld NUIS,Europe,Pyeongchang,2018
-555,1000m men,Silver,2,Norway,NOR,Havard LORENTZEN,Europe,Pyeongchang,2018
-556,1000m men,Bronze,3,Republic of Korea,KOR,Tae-Yun KIM,Asia,Pyeongchang,2018
-557,1000m women,Gold,1,Netherlands,NED,Jorien TER MORS,Europe,Pyeongchang,2018
-558,1000m women,Silver,2,Japan,JPN,Nao KODAIRA,Asia,Pyeongchang,2018
-559,1000m women,Bronze,3,Japan,JPN,Miho TAKAGI,Asia,Pyeongchang,2018
-560,1500m men,Gold,1,Netherlands,NED,Kjeld NUIS,Europe,Pyeongchang,2018
-561,1500m men,Silver,2,Netherlands,NED,Patrick ROEST,Europe,Pyeongchang,2018
-562,1500m men,Bronze,3,Republic of Korea,KOR,Min Seok KIM,Asia,Pyeongchang,2018
-563,1500m women,Gold,1,Netherlands,NED,Ireen WÜST,Europe,Pyeongchang,2018
-564,1500m women,Silver,2,Japan,JPN,Miho TAKAGI,Asia,Pyeongchang,2018
-565,1500m women,Bronze,3,Netherlands,NED,Marrit LEENSTRA,Europe,Pyeongchang,2018
-566,3000m women,Gold,1,Netherlands,NED,Carlijn ACHTEREEKTE,Europe,Pyeongchang,2018
-567,3000m women,Silver,2,Netherlands,NED,Ireen WÜST,Europe,Pyeongchang,2018
-568,3000m women,Bronze,3,Netherlands,NED,Antoinette DE JONG,Europe,Pyeongchang,2018
-569,5000m men,Gold,1,Netherlands,NED,Sven KRAMER,Europe,Pyeongchang,2018
-570,5000m men,Silver,2,Canada,CAN,Ted-Jan BLOEMEN,North America,Pyeongchang,2018
-571,5000m men,Bronze,3,Norway,NOR,Sverre Lunde PEDERSEN,Europe,Pyeongchang,2018
-572,5000m women,Gold,1,Netherlands,NED,Esmee VISSER,Europe,Pyeongchang,2018
-573,5000m women,Silver,2,Czech Republic,CZE,Martina SABLIKOVA,Europe,Pyeongchang,2018
-574,5000m women,Bronze,3,Olympic Athletes from Russia,OAR,Natalia VORONINA,Europe,Pyeongchang,2018
-575,500m men,Gold,1,Norway,NOR,Havard LORENTZEN,Europe,Pyeongchang,2018
-576,500m men,Silver,2,Republic of Korea,KOR,Min Kyu CHA,Asia,Pyeongchang,2018
-577,500m men,Bronze,3,People's Republic of China,CHN,Tingyu GAO,Asia,Pyeongchang,2018
-578,500m women,Gold,1,Japan,JPN,Nao KODAIRA,Asia,Pyeongchang,2018
-579,500m women,Silver,2,Republic of Korea,KOR,Sang-Hwa LEE,Asia,Pyeongchang,2018
-580,500m women,Bronze,3,Czech Republic,CZE,Karolina ERBANOVA,Europe,Pyeongchang,2018
-581,Mass start men,Gold,1,Republic of Korea,KOR,Seung Hoon LEE,Asia,Pyeongchang,2018
-582,Mass start men,Silver,2,Belgium,BEL,Bart SWINGS,Europe,Pyeongchang,2018
-583,Mass start men,Bronze,3,Netherlands,NED,Koen VERWEIJ,Europe,Pyeongchang,2018
-584,Mass start women,Gold,1,Japan,JPN,Nana TAKAGI,Asia,Pyeongchang,2018
-585,Mass start women,Silver,2,Republic of Korea,KOR,Bo Reum KIM,Asia,Pyeongchang,2018
-586,Mass start women,Bronze,3,Netherlands,NED,Irene SCHOUTEN,Europe,Pyeongchang,2018
-587,Team pursuit men,Gold,1,Norway,NOR,Team Norway,Europe,Pyeongchang,2018
-588,Team pursuit men,Silver,2,Republic of Korea,KOR,Team Republic of Korea,Asia,Pyeongchang,2018
-589,Team pursuit men,Bronze,3,Netherlands,NED,Team Netherlands,Europe,Pyeongchang,2018
-590,Team pursuit women,Gold,1,Japan,JPN,Team Japan,Asia,Pyeongchang,2018
-591,Team pursuit women,Silver,2,Netherlands,NED,Team Netherlands,Europe,Pyeongchang,2018
-592,Team pursuit women,Bronze,3,United States of America,USA,Team United States of America,North America,Pyeongchang,2018
+index,Event,Medal,Rank,Country,Country_Code,Athlete,Continent,Host City,Year,Rank_bar
+0,10000m men,Gold,1.0,Finland,FIN,Julius SKUTNABB,Europe,Chamonix,1924,3.0
+1,10000m men,Silver,2.0,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924,2.0
+2,10000m men,Bronze,3.0,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924,1.0
+3,1500m men,Gold,1.0,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924,3.0
+4,1500m men,Silver,2.0,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924,2.0
+5,1500m men,Bronze,3.0,Norway,NOR,Sigurd MOEN,Europe,Chamonix,1924,1.0
+6,5000m men,Gold,1.0,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924,3.0
+7,5000m men,Silver,2.0,Finland,FIN,Julius SKUTNABB,Europe,Chamonix,1924,2.0
+8,5000m men,Bronze,3.0,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924,1.0
+9,500m men,Gold,1.0,United States of America,USA,Charles JEWTRAW,North America,Chamonix,1924,3.0
+10,500m men,Silver,2.0,Norway,NOR,Oskar OLSEN,Europe,Chamonix,1924,2.0
+11,500m men,Bronze,3.0,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924,1.0
+12,500m men,Bronze,3.0,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924,1.0
+13,Team pursuit men,Gold,1.0,Finland,FIN,Clas THUNBERG,Europe,Chamonix,1924,3.0
+14,Team pursuit men,Silver,2.0,Norway,NOR,Roald LARSEN,Europe,Chamonix,1924,2.0
+15,Team pursuit men,Bronze,3.0,Finland,FIN,Julius SKUTNABB,Europe,Chamonix,1924,1.0
+16,1500m men,Gold,1.0,Finland,FIN,Clas THUNBERG,Europe,St-Moritz,1928,3.0
+17,1500m men,Silver,2.0,Norway,NOR,Bernt EVENSEN,Europe,St-Moritz,1928,2.0
+18,1500m men,Bronze,3.0,Norway,NOR,Ivar BALLANGRUD,Europe,St-Moritz,1928,1.0
+19,5000m men,Gold,1.0,Norway,NOR,Ivar BALLANGRUD,Europe,St-Moritz,1928,3.0
+20,5000m men,Silver,2.0,Finland,FIN,Julius SKUTNABB,Europe,St-Moritz,1928,2.0
+21,5000m men,Bronze,3.0,Norway,NOR,Bernt EVENSEN,Europe,St-Moritz,1928,1.0
+22,500m men,Gold,1.0,Norway,NOR,Bernt EVENSEN,Europe,St-Moritz,1928,3.0
+23,500m men,Gold,1.0,Finland,FIN,Clas THUNBERG,Europe,St-Moritz,1928,3.0
+24,500m men,Bronze,3.0,United States of America,USA,John O FARRELL,North America,St-Moritz,1928,1.0
+25,500m men,Bronze,3.0,Finland,FIN,Jaakko FRIMAN,Europe,St-Moritz,1928,1.0
+26,500m men,Bronze,3.0,Norway,NOR,Roald LARSEN,Europe,St-Moritz,1928,1.0
+27,10000m men,Gold,1.0,United States of America,USA,Irving JAFFEE,North America,Lake-Placid,1932,3.0
+28,10000m men,Silver,2.0,Norway,NOR,Ivar BALLANGRUD,Europe,Lake-Placid,1932,2.0
+29,10000m men,Bronze,3.0,Canada,CAN,Frank STACK,North America,Lake-Placid,1932,1.0
+30,1500m men,Gold,1.0,United States of America,USA,Jack SHEA,North America,Lake-Placid,1932,3.0
+31,1500m men,Silver,2.0,Canada,CAN,Alex Hurd,North America,Lake-Placid,1932,2.0
+32,1500m men,Bronze,3.0,Canada,CAN,William F. LOGAN,North America,Lake-Placid,1932,1.0
+33,5000m men,Gold,1.0,United States of America,USA,Irving JAFFEE,North America,Lake-Placid,1932,3.0
+34,5000m men,Silver,2.0,United States of America,USA,Edward MURPHY,North America,Lake-Placid,1932,2.0
+35,5000m men,Bronze,3.0,Canada,CAN,William F. LOGAN,North America,Lake-Placid,1932,1.0
+36,500m men,Gold,1.0,United States of America,USA,Jack SHEA,North America,Lake-Placid,1932,3.0
+37,500m men,Silver,2.0,Norway,NOR,Bernt EVENSEN,Europe,Lake-Placid,1932,2.0
+38,500m men,Bronze,3.0,Canada,CAN,Alex Hurd,North America,Lake-Placid,1932,1.0
+39,10000m men,Gold,1.0,Norway,NOR,Ivar BALLANGRUD,Europe,Garmisch-Partenkirchen,1936,3.0
+40,10000m men,Silver,2.0,Finland,FIN,Birger WASENIUS,Europe,Garmisch-Partenkirchen,1936,2.0
+41,10000m men,Bronze,3.0,Austria,AUT,Max STIEPL,Europe,Garmisch-Partenkirchen,1936,1.0
+42,1500m men,Gold,1.0,Norway,NOR,Charles MATHISEN,Europe,Garmisch-Partenkirchen,1936,3.0
+43,1500m men,Silver,2.0,Norway,NOR,Ivar BALLANGRUD,Europe,Garmisch-Partenkirchen,1936,2.0
+44,1500m men,Bronze,3.0,Finland,FIN,Birger WASENIUS,Europe,Garmisch-Partenkirchen,1936,1.0
+45,5000m men,Gold,1.0,Norway,NOR,Ivar BALLANGRUD,Europe,Garmisch-Partenkirchen,1936,3.0
+46,5000m men,Silver,2.0,Finland,FIN,Birger WASENIUS,Europe,Garmisch-Partenkirchen,1936,2.0
+47,5000m men,Bronze,3.0,Finland,FIN,Antero OJALA,Europe,Garmisch-Partenkirchen,1936,1.0
+48,500m men,Gold,1.0,Norway,NOR,Ivar BALLANGRUD,Europe,Garmisch-Partenkirchen,1936,3.0
+49,500m men,Silver,2.0,Norway,NOR,Georg KROG,Europe,Garmisch-Partenkirchen,1936,2.0
+50,500m men,Bronze,3.0,United States of America,USA,Leo FREISINGER,North America,Garmisch-Partenkirchen,1936,1.0
+51,10000m men,Gold,,,,,,Garmisch-Partenkirchen,1940,0.5
+52,10000m men,Silver,,,,,,Garmisch-Partenkirchen,1940,0.5
+53,10000m men,Bronze,,,,,,Garmisch-Partenkirchen,1940,0.5
+54,1500m men,Gold,,,,,,Garmisch-Partenkirchen,1940,0.5
+55,1500m men,Silver,,,,,,Garmisch-Partenkirchen,1940,0.5
+56,1500m men,Bronze,,,,,,Garmisch-Partenkirchen,1940,0.5
+57,5000m men,Gold,,,,,,Garmisch-Partenkirchen,1940,0.5
+58,5000m men,Silver,,,,,,Garmisch-Partenkirchen,1940,0.5
+59,5000m men,Bronze,,,,,,Garmisch-Partenkirchen,1940,0.5
+60,500m men,Gold,,,,,,Garmisch-Partenkirchen,1940,0.5
+61,500m men,Silver,,,,,,Garmisch-Partenkirchen,1940,0.5
+62,500m men,Bronze,,,,,,Garmisch-Partenkirchen,1940,0.5
+63,10000m men,Gold,,,,,,Cortina d'Ampezzo,1944,0.5
+64,10000m men,Silver,,,,,,Cortina d'Ampezzo,1944,0.5
+65,10000m men,Bronze,,,,,,Cortina d'Ampezzo,1944,0.5
+66,1500m men,Gold,,,,,,Cortina d'Ampezzo,1944,0.5
+67,1500m men,Silver,,,,,,Cortina d'Ampezzo,1944,0.5
+68,1500m men,Bronze,,,,,,Cortina d'Ampezzo,1944,0.5
+69,5000m men,Gold,,,,,,Cortina d'Ampezzo,1944,0.5
+70,5000m men,Silver,,,,,,Cortina d'Ampezzo,1944,0.5
+71,5000m men,Bronze,,,,,,Cortina d'Ampezzo,1944,0.5
+72,500m men,Gold,,,,,,Cortina d'Ampezzo,1944,0.5
+73,500m men,Silver,,,,,,Cortina d'Ampezzo,1944,0.5
+74,500m men,Bronze,,,,,,Cortina d'Ampezzo,1944,0.5
+75,10000m men,Gold,1.0,Sweden,SWE,Ake SEYFFARTH,Europe,St-Moritz,1948,3.0
+76,10000m men,Silver,2.0,Finland,FIN,Lauri PARKKINEN,Europe,St-Moritz,1948,2.0
+77,10000m men,Bronze,3.0,Finland,FIN,Pentti LAMMIO,Europe,St-Moritz,1948,1.0
+78,1500m men,Gold,1.0,Norway,NOR,Sverre FARSTAD,Europe,St-Moritz,1948,3.0
+79,1500m men,Silver,2.0,Sweden,SWE,Ake SEYFFARTH,Europe,St-Moritz,1948,2.0
+80,1500m men,Bronze,3.0,Norway,NOR,Odd LUNDBERG,Europe,St-Moritz,1948,1.0
+81,5000m men,Gold,1.0,Norway,NOR,Reidar LIAKLEV,Europe,St-Moritz,1948,3.0
+82,5000m men,Silver,2.0,Norway,NOR,Odd LUNDBERG,Europe,St-Moritz,1948,2.0
+83,5000m men,Bronze,3.0,Sweden,SWE,Göthe HEDLUND,Europe,St-Moritz,1948,1.0
+84,500m men,Gold,1.0,Norway,NOR,Finn HELGESEN,Europe,St-Moritz,1948,3.0
+85,500m men,Silver,2.0,United States of America,USA,Ken Bartholomew,North America,St-Moritz,1948,2.0
+86,500m men,Silver,2.0,Norway,NOR,Thomas BYBERG,Europe,St-Moritz,1948,2.0
+87,500m men,Silver,2.0,United States of America,USA,Robert FITZGERALD,North America,St-Moritz,1948,2.0
+88,10000m men,Gold,1.0,Norway,NOR,Hjalmar ANDERSEN,Europe,Oslo,1952,3.0
+89,10000m men,Silver,2.0,Netherlands,NED,Cornelis BROEKMAN,Europe,Oslo,1952,2.0
+90,10000m men,Bronze,3.0,Sweden,SWE,Carl-Erik ASPLUND,Europe,Oslo,1952,1.0
+91,1500m men,Gold,1.0,Norway,NOR,Hjalmar ANDERSEN,Europe,Oslo,1952,3.0
+92,1500m men,Silver,2.0,Netherlands,NED,Willem VAN DER VOORT,Europe,Oslo,1952,2.0
+93,1500m men,Bronze,3.0,Norway,NOR,Roald AAS,Europe,Oslo,1952,1.0
+94,5000m men,Gold,1.0,Norway,NOR,Hjalmar ANDERSEN,Europe,Oslo,1952,3.0
+95,5000m men,Silver,2.0,Netherlands,NED,Cornelis BROEKMAN,Europe,Oslo,1952,2.0
+96,5000m men,Bronze,3.0,Norway,NOR,Sverre HAUGLI,Europe,Oslo,1952,1.0
+97,500m men,Gold,1.0,United States of America,USA,Kenneth HENRY,North America,Oslo,1952,3.0
+98,500m men,Silver,2.0,United States of America,USA,Donald MCDERMOTT,North America,Oslo,1952,2.0
+99,500m men,Bronze,3.0,Canada,CAN,Gordon AUDLEY,North America,Oslo,1952,1.0
+100,500m men,Bronze,3.0,Norway,NOR,Arne JOHANSEN,Europe,Oslo,1952,1.0
+101,10000m men,Gold,1.0,Sweden,SWE,Sigvard ERICSSON,Europe,Cortina-D-Ampezzo,1956,3.0
+102,10000m men,Silver,2.0,Norway,NOR,Knut JOHANNESEN,Europe,Cortina-D-Ampezzo,1956,2.0
+103,10000m men,Bronze,3.0,Soviet Union,URS,Oleg GONCHARENKO,Europe,Cortina-D-Ampezzo,1956,1.0
+104,1500m men,Gold,1.0,Soviet Union,URS,Yevgeny GRISHIN,Europe,Cortina-D-Ampezzo,1956,3.0
+105,1500m men,Gold,1.0,Soviet Union,URS,Yury MIKHAILOV,Europe,Cortina-D-Ampezzo,1956,3.0
+106,1500m men,Bronze,3.0,Finland,FIN,Toivo SALONEN,Europe,Cortina-D-Ampezzo,1956,1.0
+107,5000m men,Gold,1.0,Soviet Union,URS,Boris SHILKOV,Europe,Cortina-D-Ampezzo,1956,3.0
+108,5000m men,Silver,2.0,Sweden,SWE,Sigvard ERICSSON,Europe,Cortina-D-Ampezzo,1956,2.0
+109,5000m men,Bronze,3.0,Soviet Union,URS,Oleg GONCHARENKO,Europe,Cortina-D-Ampezzo,1956,1.0
+110,500m men,Gold,1.0,Soviet Union,URS,Yevgeny GRISHIN,Europe,Cortina-D-Ampezzo,1956,3.0
+111,500m men,Silver,2.0,Soviet Union,URS,Rafael GRACH,Europe,Cortina-D-Ampezzo,1956,2.0
+112,500m men,Bronze,3.0,Norway,NOR,Alv GJESTVANG,Europe,Cortina-D-Ampezzo,1956,1.0
+113,10000m men,Gold,1.0,Norway,NOR,Knut JOHANNESEN,Europe,Squaw-Valley,1960,3.0
+114,10000m men,Silver,2.0,Soviet Union,URS,Viktor KOSICHKIN,Europe,Squaw-Valley,1960,2.0
+115,10000m men,Bronze,3.0,Sweden,SWE,Kjell BÄCKMAN,Europe,Squaw-Valley,1960,1.0
+116,1000m women,Gold,1.0,Soviet Union,URS,Klara GUSEVA,Europe,Squaw-Valley,1960,3.0
+117,1000m women,Silver,2.0,Germany,GER,Helga HAASE,Europe,Squaw-Valley,1960,2.0
+118,1000m women,Bronze,3.0,Soviet Union,URS,Tamara RYLOVA,Europe,Squaw-Valley,1960,1.0
+119,1500m men,Gold,1.0,Norway,NOR,Roald AAS,Europe,Squaw-Valley,1960,3.0
+120,1500m men,Gold,1.0,Soviet Union,URS,Yevgeny GRISHIN,Europe,Squaw-Valley,1960,3.0
+121,1500m men,Bronze,3.0,Soviet Union,URS,Boris STENIN,Europe,Squaw-Valley,1960,1.0
+122,1500m women,Gold,1.0,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Squaw-Valley,1960,3.0
+123,1500m women,Silver,2.0,Poland,POL,Elwira SEROCZYNSKA,Europe,Squaw-Valley,1960,2.0
+124,1500m women,Bronze,3.0,Poland,POL,Helena PILEJCZYK,Europe,Squaw-Valley,1960,1.0
+125,3000m women,Gold,1.0,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Squaw-Valley,1960,3.0
+126,3000m women,Silver,2.0,Soviet Union,URS,Valentina STENINA,Europe,Squaw-Valley,1960,2.0
+127,3000m women,Bronze,3.0,Finland,FIN,Eevi HUTTUNEN,Europe,Squaw-Valley,1960,1.0
+128,5000m men,Gold,1.0,Soviet Union,URS,Viktor KOSICHKIN,Europe,Squaw-Valley,1960,3.0
+129,5000m men,Silver,2.0,Norway,NOR,Knut JOHANNESEN,Europe,Squaw-Valley,1960,2.0
+130,5000m men,Bronze,3.0,Netherlands,NED,Janis PESMAN,Europe,Squaw-Valley,1960,1.0
+131,500m men,Gold,1.0,Soviet Union,URS,Yevgeny GRISHIN,Europe,Squaw-Valley,1960,3.0
+132,500m men,Silver,2.0,United States of America,USA,William DISNEY,North America,Squaw-Valley,1960,2.0
+133,500m men,Bronze,3.0,Soviet Union,URS,Rafael GRACH,Europe,Squaw-Valley,1960,1.0
+134,500m women,Gold,1.0,Germany,GER,Helga HAASE,Europe,Squaw-Valley,1960,3.0
+135,500m women,Silver,2.0,Soviet Union,URS,Nataliya Donchenko,Europe,Squaw-Valley,1960,2.0
+136,500m women,Bronze,3.0,United States of America,USA,Jeanne ASHWORTH,North America,Squaw-Valley,1960,1.0
+137,10000m men,Gold,1.0,Sweden,SWE,Jonny NILSSON,Europe,Innsbruck,1964,3.0
+138,10000m men,Silver,2.0,Norway,NOR,Fred Anton MAIER,Europe,Innsbruck,1964,2.0
+139,10000m men,Bronze,3.0,Norway,NOR,Knut JOHANNESEN,Europe,Innsbruck,1964,1.0
+140,1000m women,Gold,1.0,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Innsbruck,1964,3.0
+141,1000m women,Silver,2.0,Soviet Union,URS,Irina YEGOROVA,Europe,Innsbruck,1964,2.0
+142,1000m women,Bronze,3.0,Finland,FIN,Kaija MUSTONEN,Europe,Innsbruck,1964,1.0
+143,1500m men,Gold,1.0,Soviet Union,URS,Ants ANTSON,Europe,Innsbruck,1964,3.0
+144,1500m men,Silver,2.0,Netherlands,NED,Cornelis VERKERK,Europe,Innsbruck,1964,2.0
+145,1500m men,Bronze,3.0,Norway,NOR,Villy HAUGEN,Europe,Innsbruck,1964,1.0
+146,1500m women,Gold,1.0,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Innsbruck,1964,3.0
+147,1500m women,Silver,2.0,Finland,FIN,Kaija MUSTONEN,Europe,Innsbruck,1964,2.0
+148,1500m women,Bronze,3.0,Soviet Union,URS,Berta KOLOKOLTSEVA,Europe,Innsbruck,1964,1.0
+149,3000m women,Gold,1.0,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Innsbruck,1964,3.0
+150,3000m women,Silver,2.0,Democratic People's Republic of Korea,PRK,Pil-Hwa Han,Asia,Innsbruck,1964,2.0
+151,3000m women,Silver,2.0,Soviet Union,URS,Valentina STENINA,Europe,Innsbruck,1964,2.0
+152,5000m men,Gold,1.0,Norway,NOR,Knut JOHANNESEN,Europe,Innsbruck,1964,3.0
+153,5000m men,Silver,2.0,Norway,NOR,Per Ivar MOE,Europe,Innsbruck,1964,2.0
+154,5000m men,Bronze,3.0,Norway,NOR,Fred Anton MAIER,Europe,Innsbruck,1964,1.0
+155,500m men,Gold,1.0,United States of America,USA,Richard MCDERMOTT,North America,Innsbruck,1964,3.0
+156,500m men,Silver,2.0,Norway,NOR,Alv GJESTVANG,Europe,Innsbruck,1964,2.0
+157,500m men,Silver,2.0,Soviet Union,URS,Yevgeny GRISHIN,Europe,Innsbruck,1964,2.0
+158,500m men,Silver,2.0,Soviet Union,URS,Vladimir ORLOV,Europe,Innsbruck,1964,2.0
+159,500m women,Gold,1.0,Soviet Union,URS,Lidiya SKOBLIKOVA,Europe,Innsbruck,1964,3.0
+160,500m women,Silver,2.0,Soviet Union,URS,Irina YEGOROVA,Europe,Innsbruck,1964,2.0
+161,500m women,Bronze,3.0,Soviet Union,URS,Tatyana SIDOROVA,Europe,Innsbruck,1964,1.0
+162,10000m men,Gold,1.0,Sweden,SWE,Johnny HÖGLIN,Europe,Grenoble,1968,3.0
+163,10000m men,Silver,2.0,Norway,NOR,Fred Anton MAIER,Europe,Grenoble,1968,2.0
+164,10000m men,Bronze,3.0,Sweden,SWE,Örjan SANDLER,Europe,Grenoble,1968,1.0
+165,1000m women,Gold,1.0,Netherlands,NED,Carolina GEIJSSEN,Europe,Grenoble,1968,3.0
+166,1000m women,Silver,2.0,Soviet Union,URS,Lyudmila TITOVA,Europe,Grenoble,1968,2.0
+167,1000m women,Bronze,3.0,United States of America,USA,Dianne HOLUM,North America,Grenoble,1968,1.0
+168,1500m men,Gold,1.0,Netherlands,NED,Cornelis VERKERK,Europe,Grenoble,1968,3.0
+169,1500m men,Silver,2.0,Norway,NOR,Ivar ERIKSEN,Europe,Grenoble,1968,2.0
+170,1500m men,Silver,2.0,Netherlands,NED,Ard SCHENK,Europe,Grenoble,1968,2.0
+171,1500m women,Gold,1.0,Finland,FIN,Kaija MUSTONEN,Europe,Grenoble,1968,3.0
+172,1500m women,Silver,2.0,Netherlands,NED,Carolina GEIJSSEN,Europe,Grenoble,1968,2.0
+173,1500m women,Bronze,3.0,Netherlands,NED,Stien Baas-Kaiser,Europe,Grenoble,1968,1.0
+174,3000m women,Gold,1.0,Netherlands,NED,Johanna SCHUT,Europe,Grenoble,1968,3.0
+175,3000m women,Silver,2.0,Finland,FIN,Kaija MUSTONEN,Europe,Grenoble,1968,2.0
+176,3000m women,Bronze,3.0,Netherlands,NED,Stien Baas-Kaiser,Europe,Grenoble,1968,1.0
+177,5000m men,Gold,1.0,Norway,NOR,Fred Anton MAIER,Europe,Grenoble,1968,3.0
+178,5000m men,Silver,2.0,Netherlands,NED,Cornelis VERKERK,Europe,Grenoble,1968,2.0
+179,5000m men,Bronze,3.0,Netherlands,NED,Petrus NOTTET,Europe,Grenoble,1968,1.0
+180,500m men,Gold,1.0,Federal Republic of Germany,FRG,Erhard KELLER,Europe,Grenoble,1968,3.0
+181,500m men,Silver,2.0,United States of America,USA,Richard MCDERMOTT,North America,Grenoble,1968,2.0
+182,500m men,Silver,2.0,Norway,NOR,Magne THOMASSEN,Europe,Grenoble,1968,2.0
+183,500m women,Gold,1.0,Soviet Union,URS,Lyudmila TITOVA,Europe,Grenoble,1968,3.0
+184,500m women,Silver,2.0,United States of America,USA,Jennifer FISH,North America,Grenoble,1968,2.0
+185,500m women,Silver,2.0,United States of America,USA,Dianne HOLUM,North America,Grenoble,1968,2.0
+186,500m women,Silver,2.0,United States of America,USA,Mary MEYERS,North America,Grenoble,1968,2.0
+187,10000m men,Gold,1.0,Netherlands,NED,Ard SCHENK,Europe,Sapporo,1972,3.0
+188,10000m men,Silver,2.0,Netherlands,NED,Cornelis VERKERK,Europe,Sapporo,1972,2.0
+189,10000m men,Bronze,3.0,Norway,NOR,Sten STENSEN,Europe,Sapporo,1972,1.0
+190,1000m women,Gold,1.0,Federal Republic of Germany,FRG,Monika HOLZNER-GAWENUS,Europe,Sapporo,1972,3.0
+191,1000m women,Silver,2.0,Netherlands,NED,Atje DEELSTRA,Europe,Sapporo,1972,2.0
+192,1000m women,Bronze,3.0,United States of America,USA,Anne HENNING,North America,Sapporo,1972,1.0
+193,1500m men,Gold,1.0,Netherlands,NED,Ard SCHENK,Europe,Sapporo,1972,3.0
+194,1500m men,Silver,2.0,Norway,NOR,Roar GRÖNVOLD,Europe,Sapporo,1972,2.0
+195,1500m men,Bronze,3.0,Sweden,SWE,Göran CLAESSON,Europe,Sapporo,1972,1.0
+196,1500m women,Gold,1.0,United States of America,USA,Dianne HOLUM,North America,Sapporo,1972,3.0
+197,1500m women,Silver,2.0,Netherlands,NED,Stien Baas-Kaiser,Europe,Sapporo,1972,2.0
+198,1500m women,Bronze,3.0,Netherlands,NED,Atje DEELSTRA,Europe,Sapporo,1972,1.0
+199,3000m women,Gold,1.0,Netherlands,NED,Stien Baas-Kaiser,Europe,Sapporo,1972,3.0
+200,3000m women,Silver,2.0,United States of America,USA,Dianne HOLUM,North America,Sapporo,1972,2.0
+201,3000m women,Bronze,3.0,Netherlands,NED,Atje DEELSTRA,Europe,Sapporo,1972,1.0
+202,5000m men,Gold,1.0,Netherlands,NED,Ard SCHENK,Europe,Sapporo,1972,3.0
+203,5000m men,Silver,2.0,Norway,NOR,Roar GRÖNVOLD,Europe,Sapporo,1972,2.0
+204,5000m men,Bronze,3.0,Norway,NOR,Sten STENSEN,Europe,Sapporo,1972,1.0
+205,500m men,Gold,1.0,Federal Republic of Germany,FRG,Erhard KELLER,Europe,Sapporo,1972,3.0
+206,500m men,Silver,2.0,Sweden,SWE,Hasse BÖRJES,Europe,Sapporo,1972,2.0
+207,500m men,Bronze,3.0,Soviet Union,URS,Valery MURATOV,Europe,Sapporo,1972,1.0
+208,500m women,Gold,1.0,United States of America,USA,Anne HENNING,North America,Sapporo,1972,3.0
+209,500m women,Silver,2.0,Soviet Union,URS,Vera KRASNOVA,Europe,Sapporo,1972,2.0
+210,500m women,Bronze,3.0,Soviet Union,URS,Lyudmila TITOVA,Europe,Sapporo,1972,1.0
+211,10000m men,Gold,1.0,Netherlands,NED,Piet KLEINE,Europe,Innsbruck,1976,3.0
+212,10000m men,Silver,2.0,Norway,NOR,Sten STENSEN,Europe,Innsbruck,1976,2.0
+213,10000m men,Bronze,3.0,Netherlands,NED,Hans VAN HELDEN,Europe,Innsbruck,1976,1.0
+214,1000m men,Gold,1.0,United States of America,USA,Peter MUELLER,North America,Innsbruck,1976,3.0
+215,1000m men,Silver,2.0,Norway,NOR,Jörn DIDRIKSEN,Europe,Innsbruck,1976,2.0
+216,1000m men,Bronze,3.0,Soviet Union,URS,Valery MURATOV,Europe,Innsbruck,1976,1.0
+217,1000m women,Gold,1.0,Soviet Union,URS,Tatyana AVERINA,Europe,Innsbruck,1976,3.0
+218,1000m women,Silver,2.0,United States of America,USA,Leah MUELLER,North America,Innsbruck,1976,2.0
+219,1000m women,Bronze,3.0,United States of America,USA,Sheila YOUNG,North America,Innsbruck,1976,1.0
+220,1500m men,Gold,1.0,Norway,NOR,Jan Egil STORHOLT,Europe,Innsbruck,1976,3.0
+221,1500m men,Silver,2.0,Soviet Union,URS,Yury KONDAKOV,Europe,Innsbruck,1976,2.0
+222,1500m men,Bronze,3.0,Netherlands,NED,Hans VAN HELDEN,Europe,Innsbruck,1976,1.0
+223,1500m women,Gold,1.0,Soviet Union,URS,Galina STEPANSKAYA,Europe,Innsbruck,1976,3.0
+224,1500m women,Silver,2.0,United States of America,USA,Sheila YOUNG,North America,Innsbruck,1976,2.0
+225,1500m women,Bronze,3.0,Soviet Union,URS,Tatyana AVERINA,Europe,Innsbruck,1976,1.0
+226,3000m women,Gold,1.0,Soviet Union,URS,Tatyana AVERINA,Europe,Innsbruck,1976,3.0
+227,3000m women,Silver,2.0,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Innsbruck,1976,2.0
+228,3000m women,Bronze,3.0,Norway,NOR,Lisbeth KORSMO,Europe,Innsbruck,1976,1.0
+229,5000m men,Gold,1.0,Norway,NOR,Sten STENSEN,Europe,Innsbruck,1976,3.0
+230,5000m men,Silver,2.0,Netherlands,NED,Piet KLEINE,Europe,Innsbruck,1976,2.0
+231,5000m men,Bronze,3.0,Netherlands,NED,Hans VAN HELDEN,Europe,Innsbruck,1976,1.0
+232,500m men,Gold,1.0,Soviet Union,URS,Yevgeny KULIKOV,Europe,Innsbruck,1976,3.0
+233,500m men,Silver,2.0,Soviet Union,URS,Valery MURATOV,Europe,Innsbruck,1976,2.0
+234,500m men,Bronze,3.0,United States of America,USA,Daniel IMMERFALL,North America,Innsbruck,1976,1.0
+235,500m women,Gold,1.0,United States of America,USA,Sheila YOUNG,North America,Innsbruck,1976,3.0
+236,500m women,Silver,2.0,Canada,CAN,Cathy PRIESTNER,North America,Innsbruck,1976,2.0
+237,500m women,Bronze,3.0,Soviet Union,URS,Tatyana AVERINA,Europe,Innsbruck,1976,1.0
+238,10000m men,Gold,1.0,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980,3.0
+239,10000m men,Silver,2.0,Netherlands,NED,Piet KLEINE,Europe,Lake-Placid,1980,2.0
+240,10000m men,Bronze,3.0,Norway,NOR,Tom Erik OXHOLM,Europe,Lake-Placid,1980,1.0
+241,1000m men,Gold,1.0,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980,3.0
+242,1000m men,Silver,2.0,Canada,CAN,Gaetan BOUCHER,North America,Lake-Placid,1980,2.0
+243,1000m men,Bronze,3.0,Soviet Union,URS,Vladimir LOBANOV,Europe,Lake-Placid,1980,1.0
+244,1000m men,Bronze,3.0,Norway,NOR,Frode RÖNNING,Europe,Lake-Placid,1980,1.0
+245,1000m women,Gold,1.0,Soviet Union,URS,Nataliya Petrusyova,Europe,Lake-Placid,1980,3.0
+246,1000m women,Silver,2.0,United States of America,USA,Leah MUELLER,North America,Lake-Placid,1980,2.0
+247,1000m women,Bronze,3.0,German Democratic Republic (Germany),GDR,Sylvia Albrecht,Europe,Lake-Placid,1980,1.0
+248,1500m men,Gold,1.0,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980,3.0
+249,1500m men,Silver,2.0,Norway,NOR,Kai Arne STENSHJEMMET,Europe,Lake-Placid,1980,2.0
+250,1500m men,Bronze,3.0,Norway,NOR,Terje ANDERSEN,Europe,Lake-Placid,1980,1.0
+251,1500m women,Gold,1.0,Netherlands,NED,Annie BORCKINK,Europe,Lake-Placid,1980,3.0
+252,1500m women,Silver,2.0,Netherlands,NED,Adriana VISSER,Europe,Lake-Placid,1980,2.0
+253,1500m women,Bronze,3.0,German Democratic Republic (Germany),GDR,Sabine BECKER,Europe,Lake-Placid,1980,1.0
+254,3000m women,Gold,1.0,Norway,NOR,Björg Eva JENSEN,Europe,Lake-Placid,1980,3.0
+255,3000m women,Silver,2.0,German Democratic Republic (Germany),GDR,Sabine BECKER,Europe,Lake-Placid,1980,2.0
+256,3000m women,Bronze,3.0,United States of America,USA,Beth HEIDEN,North America,Lake-Placid,1980,1.0
+257,5000m men,Gold,1.0,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980,3.0
+258,5000m men,Silver,2.0,Norway,NOR,Kai Arne STENSHJEMMET,Europe,Lake-Placid,1980,2.0
+259,5000m men,Bronze,3.0,Norway,NOR,Tom Erik OXHOLM,Europe,Lake-Placid,1980,1.0
+260,500m men,Gold,1.0,United States of America,USA,Eric HEIDEN,North America,Lake-Placid,1980,3.0
+261,500m men,Silver,2.0,Soviet Union,URS,Yevgeny KULIKOV,Europe,Lake-Placid,1980,2.0
+262,500m men,Bronze,3.0,Netherlands,NED,Lieuwe DE BOER,Europe,Lake-Placid,1980,1.0
+263,500m women,Gold,1.0,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Lake-Placid,1980,3.0
+264,500m women,Silver,2.0,United States of America,USA,Leah MUELLER,North America,Lake-Placid,1980,2.0
+265,500m women,Bronze,3.0,Soviet Union,URS,Nataliya Petrusyova,Europe,Lake-Placid,1980,1.0
+266,10000m men,Gold,1.0,Soviet Union,URS,Igor MALKOV,Europe,Sarajevo,1984,3.0
+267,10000m men,Silver,2.0,Sweden,SWE,Tomas GUSTAFSON,Europe,Sarajevo,1984,2.0
+268,10000m men,Bronze,3.0,German Democratic Republic (Germany),GDR,René SCHÖFISCH,Europe,Sarajevo,1984,1.0
+269,1000m men,Gold,1.0,Canada,CAN,Gaetan BOUCHER,North America,Sarajevo,1984,3.0
+270,1000m men,Silver,2.0,Soviet Union,URS,Sergey KHLEBNIKOV,Europe,Sarajevo,1984,2.0
+271,1000m men,Bronze,3.0,Norway,NOR,Kai Arne ENGELSTAD,Europe,Sarajevo,1984,1.0
+272,1000m women,Gold,1.0,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Sarajevo,1984,3.0
+273,1000m women,Silver,2.0,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Sarajevo,1984,2.0
+274,1000m women,Bronze,3.0,Soviet Union,URS,Nataliya Petrusyova,Europe,Sarajevo,1984,1.0
+275,1500m men,Gold,1.0,Canada,CAN,Gaetan BOUCHER,North America,Sarajevo,1984,3.0
+276,1500m men,Silver,2.0,Soviet Union,URS,Sergey KHLEBNIKOV,Europe,Sarajevo,1984,2.0
+277,1500m men,Bronze,3.0,Soviet Union,URS,Oleg BOZHYEV,Europe,Sarajevo,1984,1.0
+278,1500m women,Gold,1.0,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Sarajevo,1984,3.0
+279,1500m women,Silver,2.0,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Sarajevo,1984,2.0
+280,1500m women,Bronze,3.0,Soviet Union,URS,Nataliya Petrusyova,Europe,Sarajevo,1984,1.0
+281,3000m women,Gold,1.0,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Sarajevo,1984,3.0
+282,3000m women,Silver,2.0,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Sarajevo,1984,2.0
+283,3000m women,Bronze,3.0,German Democratic Republic (Germany),GDR,Gabi ZANGE,Europe,Sarajevo,1984,1.0
+284,5000m men,Gold,1.0,Sweden,SWE,Tomas GUSTAFSON,Europe,Sarajevo,1984,3.0
+285,5000m men,Silver,2.0,Soviet Union,URS,Igor MALKOV,Europe,Sarajevo,1984,2.0
+286,5000m men,Bronze,3.0,German Democratic Republic (Germany),GDR,René SCHÖFISCH,Europe,Sarajevo,1984,1.0
+287,500m men,Gold,1.0,Soviet Union,URS,Sergey FOKICHEV,Europe,Sarajevo,1984,3.0
+288,500m men,Silver,2.0,Japan,JPN,Yoshihiro KITAZAWA,Asia,Sarajevo,1984,2.0
+289,500m men,Bronze,3.0,Canada,CAN,Gaetan BOUCHER,North America,Sarajevo,1984,1.0
+290,500m women,Gold,1.0,German Democratic Republic (Germany),GDR,Christa LUDING-ROTHENBURGER,Europe,Sarajevo,1984,3.0
+291,500m women,Silver,2.0,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Sarajevo,1984,2.0
+292,500m women,Bronze,3.0,Soviet Union,URS,Nataliya Shive-Glebova,Europe,Sarajevo,1984,1.0
+293,10000m men,Gold,1.0,Sweden,SWE,Tomas GUSTAFSON,Europe,Calgary,1988,3.0
+294,10000m men,Silver,2.0,Austria,AUT,Michael HADSCHIEFF,Europe,Calgary,1988,2.0
+295,10000m men,Bronze,3.0,Netherlands,NED,Leo VISSER,Europe,Calgary,1988,1.0
+296,1000m men,Gold,1.0,Soviet Union,URS,Nikolay GULYAEV,Europe,Calgary,1988,3.0
+297,1000m men,Silver,2.0,German Democratic Republic (Germany),GDR,Uwe-Jens MEY,Europe,Calgary,1988,2.0
+298,1000m men,Bronze,3.0,Soviet Union,URS,Igor ZHELEZOVSKY,Europe,Calgary,1988,1.0
+299,1000m women,Gold,1.0,German Democratic Republic (Germany),GDR,Christa LUDING-ROTHENBURGER,Europe,Calgary,1988,3.0
+300,1000m women,Silver,2.0,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Calgary,1988,2.0
+301,1000m women,Bronze,3.0,United States of America,USA,Bonnie BLAIR,North America,Calgary,1988,1.0
+302,1500m men,Gold,1.0,German Democratic Republic (Germany),GDR,Andre HOFFMANN,Europe,Calgary,1988,3.0
+303,1500m men,Silver,2.0,United States of America,USA,Eric FLAIM,North America,Calgary,1988,2.0
+304,1500m men,Bronze,3.0,Austria,AUT,Michael HADSCHIEFF,Europe,Calgary,1988,1.0
+305,1500m women,Gold,1.0,Netherlands,NED,Yvonne VAN GENNIP,Europe,Calgary,1988,3.0
+306,1500m women,Silver,2.0,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Calgary,1988,2.0
+307,1500m women,Bronze,3.0,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Calgary,1988,1.0
+308,3000m women,Gold,1.0,Netherlands,NED,Yvonne VAN GENNIP,Europe,Calgary,1988,3.0
+309,3000m women,Silver,2.0,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Calgary,1988,2.0
+310,3000m women,Bronze,3.0,German Democratic Republic (Germany),GDR,Gabi ZANGE,Europe,Calgary,1988,1.0
+311,5000m men,Gold,1.0,Sweden,SWE,Tomas GUSTAFSON,Europe,Calgary,1988,3.0
+312,5000m men,Silver,2.0,Netherlands,NED,Leo VISSER,Europe,Calgary,1988,2.0
+313,5000m men,Bronze,3.0,Netherlands,NED,Gerard KEMKERS,Europe,Calgary,1988,1.0
+314,5000m women,Gold,1.0,Netherlands,NED,Yvonne VAN GENNIP,Europe,Calgary,1988,3.0
+315,5000m women,Silver,2.0,German Democratic Republic (Germany),GDR,Andrea EHRIG,Europe,Calgary,1988,2.0
+316,5000m women,Bronze,3.0,German Democratic Republic (Germany),GDR,Gabi ZANGE,Europe,Calgary,1988,1.0
+317,500m men,Gold,1.0,German Democratic Republic (Germany),GDR,Uwe-Jens MEY,Europe,Calgary,1988,3.0
+318,500m men,Silver,2.0,Netherlands,NED,Jan YKEMA,Europe,Calgary,1988,2.0
+319,500m men,Bronze,3.0,Japan,JPN,Akira KUROIWA,Asia,Calgary,1988,1.0
+320,500m women,Gold,1.0,United States of America,USA,Bonnie BLAIR,North America,Calgary,1988,3.0
+321,500m women,Silver,2.0,German Democratic Republic (Germany),GDR,Christa LUDING-ROTHENBURGER,Europe,Calgary,1988,2.0
+322,500m women,Bronze,3.0,German Democratic Republic (Germany),GDR,Karin ENKE,Europe,Calgary,1988,1.0
+323,10000m men,Gold,1.0,Netherlands,NED,Bart VELDKAMP,Europe,Albertville,1992,3.0
+324,10000m men,Silver,2.0,Norway,NOR,Johann Olav KOSS,Europe,Albertville,1992,2.0
+325,10000m men,Bronze,3.0,Norway,NOR,Geir KARLSTAD,Europe,Albertville,1992,1.0
+326,1000m men,Gold,1.0,Germany,GER,Olaf ZINKE,Europe,Albertville,1992,3.0
+327,1000m men,Silver,2.0,Republic of Korea,KOR,Yoon-Man KIM,Asia,Albertville,1992,2.0
+328,1000m men,Bronze,3.0,Japan,JPN,Yukinori MIYABE,Asia,Albertville,1992,1.0
+329,1000m women,Gold,1.0,United States of America,USA,Bonnie BLAIR,North America,Albertville,1992,3.0
+330,1000m women,Silver,2.0,People's Republic of China,CHN,Qiaobo YE,Asia,Albertville,1992,2.0
+331,1000m women,Bronze,3.0,Germany,GER,Monique GARBRECHT-ENFELDT,Europe,Albertville,1992,1.0
+332,1500m men,Gold,1.0,Norway,NOR,Johann Olav KOSS,Europe,Albertville,1992,3.0
+333,1500m men,Silver,2.0,Norway,NOR,Adne SONDRAL,Europe,Albertville,1992,2.0
+334,1500m men,Bronze,3.0,Netherlands,NED,Leo VISSER,Europe,Albertville,1992,1.0
+335,1500m women,Gold,1.0,Germany,GER,Jacqueline BÖRNER,Europe,Albertville,1992,3.0
+336,1500m women,Silver,2.0,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Albertville,1992,2.0
+337,1500m women,Bronze,3.0,Japan,JPN,Seiko HASHIMOTO,Asia,Albertville,1992,1.0
+338,3000m women,Gold,1.0,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Albertville,1992,3.0
+339,3000m women,Silver,2.0,Germany,GER,Heike WARNICKE,Europe,Albertville,1992,2.0
+340,3000m women,Bronze,3.0,Austria,AUT,Emese HUNYADY,Europe,Albertville,1992,1.0
+341,5000m men,Gold,1.0,Norway,NOR,Geir KARLSTAD,Europe,Albertville,1992,3.0
+342,5000m men,Silver,2.0,Netherlands,NED,Falko ZANDSTRA,Europe,Albertville,1992,2.0
+343,5000m men,Bronze,3.0,Netherlands,NED,Leo VISSER,Europe,Albertville,1992,1.0
+344,5000m women,Gold,1.0,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Albertville,1992,3.0
+345,5000m women,Silver,2.0,Germany,GER,Heike WARNICKE,Europe,Albertville,1992,2.0
+346,5000m women,Bronze,3.0,Germany,GER,Claudia PECHSTEIN,Europe,Albertville,1992,1.0
+347,500m men,Gold,1.0,Germany,GER,Uwe-Jens MEY,Europe,Albertville,1992,3.0
+348,500m men,Silver,2.0,Japan,JPN,Toshiyuki KUROIWA,Asia,Albertville,1992,2.0
+349,500m men,Bronze,3.0,Japan,JPN,Junichi INOUE,Asia,Albertville,1992,1.0
+350,500m women,Gold,1.0,United States of America,USA,Bonnie BLAIR,North America,Albertville,1992,3.0
+351,500m women,Silver,2.0,People's Republic of China,CHN,Qiaobo YE,Asia,Albertville,1992,2.0
+352,500m women,Bronze,3.0,Germany,GER,Christa LUDING-ROTHENBURGER,Europe,Albertville,1992,1.0
+353,10000m men,Gold,1.0,Norway,NOR,Johann Olav KOSS,Europe,Lillehammer,1994,3.0
+354,10000m men,Silver,2.0,Norway,NOR,Kjell STORELID,Europe,Lillehammer,1994,2.0
+355,10000m men,Bronze,3.0,Netherlands,NED,Bart VELDKAMP,Europe,Lillehammer,1994,1.0
+356,1000m men,Gold,1.0,United States of America,USA,Daniel JANSEN,North America,Lillehammer,1994,3.0
+357,1000m men,Silver,2.0,Belarus,BLR,Igor ZHELEZOVSKY,Europe,Lillehammer,1994,2.0
+358,1000m men,Bronze,3.0,Russian Federation,RUS,Sergey KLEVCHENYA,Europe,Lillehammer,1994,1.0
+359,1000m women,Gold,1.0,United States of America,USA,Bonnie BLAIR,North America,Lillehammer,1994,3.0
+360,1000m women,Silver,2.0,Germany,GER,Anke BAIER-LOEF,Europe,Lillehammer,1994,2.0
+361,1000m women,Bronze,3.0,People's Republic of China,CHN,Qiaobo YE,Asia,Lillehammer,1994,1.0
+362,1500m men,Gold,1.0,Norway,NOR,Johann Olav KOSS,Europe,Lillehammer,1994,3.0
+363,1500m men,Silver,2.0,Netherlands,NED,Rintje RITSMA,Europe,Lillehammer,1994,2.0
+364,1500m men,Bronze,3.0,Netherlands,NED,Falko ZANDSTRA,Europe,Lillehammer,1994,1.0
+365,1500m women,Gold,1.0,Austria,AUT,Emese HUNYADY,Europe,Lillehammer,1994,3.0
+366,1500m women,Silver,2.0,Russian Federation,RUS,Svetlana FEDOTKINA,Europe,Lillehammer,1994,2.0
+367,1500m women,Bronze,3.0,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Lillehammer,1994,1.0
+368,3000m women,Gold,1.0,Russian Federation,RUS,Svetlana BAJANOVA,Europe,Lillehammer,1994,3.0
+369,3000m women,Silver,2.0,Austria,AUT,Emese HUNYADY,Europe,Lillehammer,1994,2.0
+370,3000m women,Bronze,3.0,Germany,GER,Claudia PECHSTEIN,Europe,Lillehammer,1994,1.0
+371,5000m men,Gold,1.0,Norway,NOR,Johann Olav KOSS,Europe,Lillehammer,1994,3.0
+372,5000m men,Silver,2.0,Norway,NOR,Kjell STORELID,Europe,Lillehammer,1994,2.0
+373,5000m men,Bronze,3.0,Netherlands,NED,Rintje RITSMA,Europe,Lillehammer,1994,1.0
+374,5000m women,Gold,1.0,Germany,GER,Claudia PECHSTEIN,Europe,Lillehammer,1994,3.0
+375,5000m women,Silver,2.0,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Lillehammer,1994,2.0
+376,5000m women,Bronze,3.0,Japan,JPN,Hiromi YAMAMOTO,Asia,Lillehammer,1994,1.0
+377,500m men,Gold,1.0,Russian Federation,RUS,Aleksandr GOLUBEV,Europe,Lillehammer,1994,3.0
+378,500m men,Silver,2.0,Russian Federation,RUS,Sergey KLEVCHENYA,Europe,Lillehammer,1994,2.0
+379,500m men,Bronze,3.0,Japan,JPN,Manabu HORII,Asia,Lillehammer,1994,1.0
+380,500m women,Gold,1.0,United States of America,USA,Bonnie BLAIR,North America,Lillehammer,1994,3.0
+381,500m women,Silver,2.0,Canada,CAN,Susan AUCH,North America,Lillehammer,1994,2.0
+382,500m women,Bronze,3.0,Germany,GER,Franziska SCHENK,Europe,Lillehammer,1994,1.0
+383,10000m men,Gold,1.0,Netherlands,NED,Gianni ROMME,Europe,Nagano,1998,3.0
+384,10000m men,Silver,2.0,Netherlands,NED,Bob Johannes Carolus DE JONG,Europe,Nagano,1998,2.0
+385,10000m men,Bronze,3.0,Netherlands,NED,Rintje RITSMA,Europe,Nagano,1998,1.0
+386,1000m men,Gold,1.0,Netherlands,NED,Ids POSTMA,Europe,Nagano,1998,3.0
+387,1000m men,Silver,2.0,Netherlands,NED,Jan BOS,Europe,Nagano,1998,2.0
+388,1000m men,Bronze,3.0,Japan,JPN,Hiroyasu SHIMIZU,Asia,Nagano,1998,1.0
+389,1000m women,Gold,1.0,Netherlands,NED,Marianne TIMMER,Europe,Nagano,1998,3.0
+390,1000m women,Silver,2.0,United States of America,USA,Christine WITTY,North America,Nagano,1998,2.0
+391,1000m women,Bronze,3.0,Canada,CAN,Catriona LE MAY DOAN,North America,Nagano,1998,1.0
+392,1500m men,Gold,1.0,Norway,NOR,Adne SONDRAL,Europe,Nagano,1998,3.0
+393,1500m men,Silver,2.0,Netherlands,NED,Ids POSTMA,Europe,Nagano,1998,2.0
+394,1500m men,Bronze,3.0,Netherlands,NED,Rintje RITSMA,Europe,Nagano,1998,1.0
+395,1500m women,Gold,1.0,Netherlands,NED,Marianne TIMMER,Europe,Nagano,1998,3.0
+396,1500m women,Silver,2.0,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Nagano,1998,2.0
+397,1500m women,Bronze,3.0,United States of America,USA,Christine WITTY,North America,Nagano,1998,1.0
+398,3000m women,Gold,1.0,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Nagano,1998,3.0
+399,3000m women,Silver,2.0,Germany,GER,Claudia PECHSTEIN,Europe,Nagano,1998,2.0
+400,3000m women,Bronze,3.0,Germany,GER,Anni FRIESINGER,Europe,Nagano,1998,1.0
+401,5000m men,Gold,1.0,Netherlands,NED,Gianni ROMME,Europe,Nagano,1998,3.0
+402,5000m men,Silver,2.0,Netherlands,NED,Rintje RITSMA,Europe,Nagano,1998,2.0
+403,5000m men,Bronze,3.0,Belgium,BEL,Bart VELDKAMP,Europe,Nagano,1998,1.0
+404,5000m women,Gold,1.0,Germany,GER,Claudia PECHSTEIN,Europe,Nagano,1998,3.0
+405,5000m women,Silver,2.0,Germany,GER,Gunda NIEMANN-STIRNEMANN,Europe,Nagano,1998,2.0
+406,5000m women,Bronze,3.0,Kazakhstan,KAZ,Lyudmila PROKASHEVA,Asia,Nagano,1998,1.0
+407,500m men,Gold,1.0,Japan,JPN,Hiroyasu SHIMIZU,Asia,Nagano,1998,3.0
+408,500m men,Silver,2.0,Canada,CAN,Jeremy WOTHERSPOON,North America,Nagano,1998,2.0
+409,500m men,Bronze,3.0,Canada,CAN,Kevin OVERLAND,North America,Nagano,1998,1.0
+410,500m women,Gold,1.0,Canada,CAN,Catriona LE MAY DOAN,North America,Nagano,1998,3.0
+411,500m women,Silver,2.0,Canada,CAN,Susan AUCH,North America,Nagano,1998,2.0
+412,500m women,Bronze,3.0,Japan,JPN,Tomomi OKAZAKI,Asia,Nagano,1998,1.0
+413,10000m men,Gold,1.0,Netherlands,NED,Jochem UYTDEHAAGE,Europe,Salt-Lake-City,2002,3.0
+414,10000m men,Silver,2.0,Netherlands,NED,Gianni ROMME,Europe,Salt-Lake-City,2002,2.0
+415,10000m men,Bronze,3.0,Norway,NOR,Lasse SAETRE,Europe,Salt-Lake-City,2002,1.0
+416,1000m men,Gold,1.0,Netherlands,NED,Gerard VAN VELDE,Europe,Salt-Lake-City,2002,3.0
+417,1000m men,Silver,2.0,Netherlands,NED,Jan BOS,Europe,Salt-Lake-City,2002,2.0
+418,1000m men,Bronze,3.0,United States of America,USA,Joey CHEEK,North America,Salt-Lake-City,2002,1.0
+419,1000m women,Gold,1.0,United States of America,USA,Christine WITTY,North America,Salt-Lake-City,2002,3.0
+420,1000m women,Silver,2.0,Germany,GER,Sabine VOELKER,Europe,Salt-Lake-City,2002,2.0
+421,1000m women,Bronze,3.0,United States of America,USA,Jennifer RODRIGUEZ,North America,Salt-Lake-City,2002,1.0
+422,1500m men,Gold,1.0,United States of America,USA,Derek PARRA,North America,Salt-Lake-City,2002,3.0
+423,1500m men,Silver,2.0,Netherlands,NED,Jochem UYTDEHAAGE,Europe,Salt-Lake-City,2002,2.0
+424,1500m men,Bronze,3.0,Norway,NOR,Adne SONDRAL,Europe,Salt-Lake-City,2002,1.0
+425,1500m women,Gold,1.0,Germany,GER,Anni FRIESINGER,Europe,Salt-Lake-City,2002,3.0
+426,1500m women,Silver,2.0,Germany,GER,Sabine VOELKER,Europe,Salt-Lake-City,2002,2.0
+427,1500m women,Bronze,3.0,United States of America,USA,Jennifer RODRIGUEZ,North America,Salt-Lake-City,2002,1.0
+428,3000m women,Gold,1.0,Germany,GER,Claudia PECHSTEIN,Europe,Salt-Lake-City,2002,3.0
+429,3000m women,Silver,2.0,Netherlands,NED,Renate GROENEWOLD,Europe,Salt-Lake-City,2002,2.0
+430,3000m women,Bronze,3.0,Canada,CAN,Cindy KLASSEN,North America,Salt-Lake-City,2002,1.0
+431,5000m men,Gold,1.0,Netherlands,NED,Jochem UYTDEHAAGE,Europe,Salt-Lake-City,2002,3.0
+432,5000m men,Silver,2.0,United States of America,USA,Derek PARRA,North America,Salt-Lake-City,2002,2.0
+433,5000m men,Bronze,3.0,Germany,GER,Jens BODEN,Europe,Salt-Lake-City,2002,1.0
+434,5000m women,Gold,1.0,Germany,GER,Claudia PECHSTEIN,Europe,Salt-Lake-City,2002,3.0
+435,5000m women,Silver,2.0,Netherlands,NED,Gretha SMIT,Europe,Salt-Lake-City,2002,2.0
+436,5000m women,Bronze,3.0,Canada,CAN,Clara HUGHES,North America,Salt-Lake-City,2002,1.0
+437,500m men,Gold,1.0,United States of America,USA,Casey FITZRANDOLPH,North America,Salt-Lake-City,2002,3.0
+438,500m men,Silver,2.0,Japan,JPN,Hiroyasu SHIMIZU,Asia,Salt-Lake-City,2002,2.0
+439,500m men,Bronze,3.0,United States of America,USA,Kip CARPENTER,North America,Salt-Lake-City,2002,1.0
+440,500m women,Gold,1.0,Canada,CAN,Catriona LE MAY DOAN,North America,Salt-Lake-City,2002,3.0
+441,500m women,Silver,2.0,Germany,GER,Monique GARBRECHT-ENFELDT,Europe,Salt-Lake-City,2002,2.0
+442,500m women,Bronze,3.0,Germany,GER,Sabine VOELKER,Europe,Salt-Lake-City,2002,1.0
+443,10000m men,Gold,1.0,Netherlands,NED,Bob Johannes Carolus DE JONG,Europe,Turin,2006,3.0
+444,10000m men,Silver,2.0,United States of America,USA,Chad HEDRICK,North America,Turin,2006,2.0
+445,10000m men,Bronze,3.0,Netherlands,NED,Carl VERHEIJEN,Europe,Turin,2006,1.0
+446,1000m men,Gold,1.0,United States of America,USA,Shani DAVIS,North America,Turin,2006,3.0
+447,1000m men,Gold,1.0,United States of America,USA,Joey CHEEK,North America,Turin,2006,3.0
+448,1000m men,Silver,2.0,United States of America,USA,Joey CHEEK,North America,Turin,2006,2.0
+449,1000m men,Silver,2.0,Russian Federation,RUS,Dmitry DOROFEYEV,Europe,Turin,2006,2.0
+450,1000m men,Bronze,3.0,Netherlands,NED,Erben WENNEMARS,Europe,Turin,2006,1.0
+451,1000m men,Bronze,3.0,Republic of Korea,KOR,Kang Seok LEE,Asia,Turin,2006,1.0
+452,1000m women,Gold,1.0,Russian Federation,RUS,Svetlana ZHUROVA,Europe,Turin,2006,3.0
+453,1000m women,Gold,1.0,Netherlands,NED,Marianne TIMMER,Europe,Turin,2006,3.0
+454,1000m women,Silver,2.0,People's Republic of China,CHN,Manli WANG,Asia,Turin,2006,2.0
+455,1000m women,Silver,2.0,Canada,CAN,Cindy KLASSEN,North America,Turin,2006,2.0
+456,1000m women,Bronze,3.0,People's Republic of China,CHN,Hui REN,Asia,Turin,2006,1.0
+457,1000m women,Bronze,3.0,Germany,GER,Anni FRIESINGER,Europe,Turin,2006,1.0
+458,1500m men,Gold,1.0,Italy,ITA,Enrico FABRIS,Europe,Turin,2006,3.0
+459,1500m men,Silver,2.0,United States of America,USA,Shani DAVIS,North America,Turin,2006,2.0
+460,1500m men,Bronze,3.0,United States of America,USA,Chad HEDRICK,North America,Turin,2006,1.0
+461,1500m women,Gold,1.0,Canada,CAN,Cindy KLASSEN,North America,Turin,2006,3.0
+462,1500m women,Silver,2.0,Canada,CAN,Kristina GROVES,North America,Turin,2006,2.0
+463,1500m women,Bronze,3.0,Netherlands,NED,Ireen WÜST,Europe,Turin,2006,1.0
+464,3000m women,Gold,1.0,Netherlands,NED,Ireen WÜST,Europe,Turin,2006,3.0
+465,3000m women,Silver,2.0,Netherlands,NED,Renate GROENEWOLD,Europe,Turin,2006,2.0
+466,3000m women,Bronze,3.0,Canada,CAN,Cindy KLASSEN,North America,Turin,2006,1.0
+467,5000m men,Gold,1.0,United States of America,USA,Chad HEDRICK,North America,Turin,2006,3.0
+468,5000m men,Silver,2.0,Netherlands,NED,Sven KRAMER,Europe,Turin,2006,2.0
+469,5000m men,Bronze,3.0,Italy,ITA,Enrico FABRIS,Europe,Turin,2006,1.0
+470,5000m women,Gold,1.0,Canada,CAN,Clara HUGHES,North America,Turin,2006,3.0
+471,5000m women,Silver,2.0,Germany,GER,Claudia PECHSTEIN,Europe,Turin,2006,2.0
+472,5000m women,Bronze,3.0,Canada,CAN,Cindy KLASSEN,North America,Turin,2006,1.0
+473,Team pursuit men,Gold,1.0,Italy,ITA,Team Italy,Europe,Turin,2006,3.0
+474,Team pursuit men,Silver,2.0,Canada,CAN,Team Canada,North America,Turin,2006,2.0
+475,Team pursuit men,Bronze,3.0,Netherlands,NED,Team Netherlands,Europe,Turin,2006,1.0
+476,Team pursuit women,Gold,1.0,Germany,GER,Team Germany,Europe,Turin,2006,3.0
+477,Team pursuit women,Silver,2.0,Canada,CAN,Team Canada,North America,Turin,2006,2.0
+478,Team pursuit women,Bronze,3.0,Russian Federation,RUS,Team Russian Federation,Europe,Turin,2006,1.0
+479,10000m men,Gold,1.0,Republic of Korea,KOR,Seung Hoon LEE,Asia,Vancouver,2010,3.0
+480,10000m men,Silver,2.0,Russian Federation,RUS,Ivan SKOBREV,Europe,Vancouver,2010,2.0
+481,10000m men,Bronze,3.0,Netherlands,NED,Bob Johannes Carolus DE JONG,Europe,Vancouver,2010,1.0
+482,1000m men,Gold,1.0,United States of America,USA,Shani DAVIS,North America,Vancouver,2010,3.0
+483,1000m men,Gold,1.0,Republic of Korea,KOR,Tae-Bum MO,Asia,Vancouver,2010,3.0
+484,1000m men,Silver,2.0,Republic of Korea,KOR,Tae-Bum MO,Asia,Vancouver,2010,2.0
+485,1000m men,Silver,2.0,Japan,JPN,Keiichiro NAGASHIMA,Asia,Vancouver,2010,2.0
+486,1000m men,Bronze,3.0,United States of America,USA,Chad HEDRICK,North America,Vancouver,2010,1.0
+487,1000m men,Bronze,3.0,Japan,JPN,Joji KATO,Asia,Vancouver,2010,1.0
+488,1000m women,Gold,1.0,Canada,CAN,Christine NESBITT,North America,Vancouver,2010,3.0
+489,1000m women,Gold,1.0,Republic of Korea,KOR,Sang-Hwa LEE,Asia,Vancouver,2010,3.0
+490,1000m women,Silver,2.0,Netherlands,NED,Annette GERRITSEN,Europe,Vancouver,2010,2.0
+491,1000m women,Silver,2.0,Germany,GER,Jenny WOLF,Europe,Vancouver,2010,2.0
+492,1000m women,Bronze,3.0,Netherlands,NED,Laurine VAN RIESSEN,Europe,Vancouver,2010,1.0
+493,1000m women,Bronze,3.0,People's Republic of China,CHN,Beixing WANG,Asia,Vancouver,2010,1.0
+494,1500m men,Gold,1.0,Netherlands,NED,Mark TUITERT,Europe,Vancouver,2010,3.0
+495,1500m men,Silver,2.0,United States of America,USA,Shani DAVIS,North America,Vancouver,2010,2.0
+496,1500m men,Bronze,3.0,Norway,NOR,Havard BOKKO,Europe,Vancouver,2010,1.0
+497,1500m women,Gold,1.0,Netherlands,NED,Ireen WÜST,Europe,Vancouver,2010,3.0
+498,1500m women,Silver,2.0,Canada,CAN,Kristina GROVES,North America,Vancouver,2010,2.0
+499,1500m women,Bronze,3.0,Czech Republic,CZE,Martina SABLIKOVA,Europe,Vancouver,2010,1.0
+500,3000m women,Gold,1.0,Czech Republic,CZE,Martina SABLIKOVA,Europe,Vancouver,2010,3.0
+501,3000m women,Silver,2.0,Germany,GER,Stephanie BECKERT,Europe,Vancouver,2010,2.0
+502,3000m women,Bronze,3.0,Canada,CAN,Kristina GROVES,North America,Vancouver,2010,1.0
+503,5000m men,Gold,1.0,Netherlands,NED,Sven KRAMER,Europe,Vancouver,2010,3.0
+504,5000m men,Silver,2.0,Republic of Korea,KOR,Seung Hoon LEE,Asia,Vancouver,2010,2.0
+505,5000m men,Bronze,3.0,Russian Federation,RUS,Ivan SKOBREV,Europe,Vancouver,2010,1.0
+506,5000m women,Gold,1.0,Czech Republic,CZE,Martina SABLIKOVA,Europe,Vancouver,2010,3.0
+507,5000m women,Silver,2.0,Germany,GER,Stephanie BECKERT,Europe,Vancouver,2010,2.0
+508,5000m women,Bronze,3.0,Canada,CAN,Clara HUGHES,North America,Vancouver,2010,1.0
+509,Team pursuit men,Gold,1.0,Canada,CAN,Team Canada,North America,Vancouver,2010,3.0
+510,Team pursuit men,Silver,2.0,United States of America,USA,Team United States of America,North America,Vancouver,2010,2.0
+511,Team pursuit men,Bronze,3.0,Netherlands,NED,Team Netherlands,Europe,Vancouver,2010,1.0
+512,Team pursuit women,Gold,1.0,Germany,GER,Team Germany,Europe,Vancouver,2010,3.0
+513,Team pursuit women,Silver,2.0,Japan,JPN,Team Japan,Asia,Vancouver,2010,2.0
+514,Team pursuit women,Bronze,3.0,Poland,POL,Team Poland,Europe,Vancouver,2010,1.0
+515,10000m men,Gold,1.0,Netherlands,NED,Jorrit BERGSMA,Europe,Sochi,2014,3.0
+516,10000m men,Silver,2.0,Netherlands,NED,Sven KRAMER,Europe,Sochi,2014,2.0
+517,10000m men,Bronze,3.0,Netherlands,NED,Bob Johannes Carolus DE JONG,Europe,Sochi,2014,1.0
+518,1000m men,Gold,1.0,Netherlands,NED,Stefan GROOTHUIS,Europe,Sochi,2014,3.0
+519,1000m men,Gold,1.0,Netherlands,NED,Michel MULDER,Europe,Sochi,2014,3.0
+520,1000m men,Silver,2.0,Canada,CAN,Denny MORRISON,North America,Sochi,2014,2.0
+521,1000m men,Silver,2.0,Netherlands,NED,Jan SMEEKENS,Europe,Sochi,2014,2.0
+522,1000m men,Bronze,3.0,Netherlands,NED,Michel MULDER,Europe,Sochi,2014,1.0
+523,1000m men,Bronze,3.0,Netherlands,NED,Ronald MULDER,Europe,Sochi,2014,1.0
+524,1000m women,Gold,1.0,Republic of Korea,KOR,Sang-Hwa LEE,Asia,Sochi,2014,3.0
+525,1000m women,Gold,1.0,People's Republic of China,CHN,Hong ZHANG,Asia,Sochi,2014,3.0
+526,1000m women,Silver,2.0,Russian Federation,RUS,Olga FATKULINA,Europe,Sochi,2014,2.0
+527,1000m women,Silver,2.0,Netherlands,NED,Ireen WÜST,Europe,Sochi,2014,2.0
+528,1000m women,Bronze,3.0,Netherlands,NED,Margot BOER,Europe,Sochi,2014,1.0
+529,1000m women,Bronze,3.0,Netherlands,NED,Margot BOER,Europe,Sochi,2014,1.0
+530,1500m men,Gold,1.0,Poland,POL,Zbigniew BRODKA,Europe,Sochi,2014,3.0
+531,1500m men,Silver,2.0,Netherlands,NED,Koen VERWEIJ,Europe,Sochi,2014,2.0
+532,1500m men,Bronze,3.0,Canada,CAN,Denny MORRISON,North America,Sochi,2014,1.0
+533,1500m women,Gold,1.0,Netherlands,NED,Jorien TER MORS,Europe,Sochi,2014,3.0
+534,1500m women,Silver,2.0,Netherlands,NED,Ireen WÜST,Europe,Sochi,2014,2.0
+535,1500m women,Bronze,3.0,Netherlands,NED,Lotte VAN BEEK,Europe,Sochi,2014,1.0
+536,3000m women,Gold,1.0,Netherlands,NED,Ireen WÜST,Europe,Sochi,2014,3.0
+537,3000m women,Silver,2.0,Czech Republic,CZE,Martina SABLIKOVA,Europe,Sochi,2014,2.0
+538,3000m women,Bronze,3.0,Russian Federation,RUS,Olga GRAF,Europe,Sochi,2014,1.0
+539,5000m men,Gold,1.0,Netherlands,NED,Sven KRAMER,Europe,Sochi,2014,3.0
+540,5000m men,Silver,2.0,Netherlands,NED,Jan BLOKHUIJSEN,Europe,Sochi,2014,2.0
+541,5000m men,Bronze,3.0,Netherlands,NED,Jorrit BERGSMA,Europe,Sochi,2014,1.0
+542,5000m women,Gold,1.0,Czech Republic,CZE,Martina SABLIKOVA,Europe,Sochi,2014,3.0
+543,5000m women,Silver,2.0,Netherlands,NED,Ireen WÜST,Europe,Sochi,2014,2.0
+544,5000m women,Bronze,3.0,Netherlands,NED,Carien KLEIBEUKER,Europe,Sochi,2014,1.0
+545,Team pursuit men,Gold,1.0,Netherlands,NED,Team Netherlands,Europe,Sochi,2014,3.0
+546,Team pursuit men,Silver,2.0,Republic of Korea,KOR,Team Republic of Korea,Asia,Sochi,2014,2.0
+547,Team pursuit men,Bronze,3.0,Poland,POL,Team Poland,Europe,Sochi,2014,1.0
+548,Team pursuit women,Gold,1.0,Netherlands,NED,Team Netherlands,Europe,Sochi,2014,3.0
+549,Team pursuit women,Silver,2.0,Poland,POL,Team Poland,Europe,Sochi,2014,2.0
+550,Team pursuit women,Bronze,3.0,Russian Federation,RUS,Team Russian Federation,Europe,Sochi,2014,1.0
+551,10000m men,Gold,1.0,Canada,CAN,Ted-Jan BLOEMEN,North America,Pyeongchang,2018,3.0
+552,10000m men,Silver,2.0,Netherlands,NED,Jorrit BERGSMA,Europe,Pyeongchang,2018,2.0
+553,10000m men,Bronze,3.0,Italy,ITA,Nicola TUMOLERO,Europe,Pyeongchang,2018,1.0
+554,1000m men,Gold,1.0,Netherlands,NED,Kjeld NUIS,Europe,Pyeongchang,2018,3.0
+555,1000m men,Silver,2.0,Norway,NOR,Havard LORENTZEN,Europe,Pyeongchang,2018,2.0
+556,1000m men,Bronze,3.0,Republic of Korea,KOR,Tae-Yun KIM,Asia,Pyeongchang,2018,1.0
+557,1000m women,Gold,1.0,Netherlands,NED,Jorien TER MORS,Europe,Pyeongchang,2018,3.0
+558,1000m women,Silver,2.0,Japan,JPN,Nao KODAIRA,Asia,Pyeongchang,2018,2.0
+559,1000m women,Bronze,3.0,Japan,JPN,Miho TAKAGI,Asia,Pyeongchang,2018,1.0
+560,1500m men,Gold,1.0,Netherlands,NED,Kjeld NUIS,Europe,Pyeongchang,2018,3.0
+561,1500m men,Silver,2.0,Netherlands,NED,Patrick ROEST,Europe,Pyeongchang,2018,2.0
+562,1500m men,Bronze,3.0,Republic of Korea,KOR,Min Seok KIM,Asia,Pyeongchang,2018,1.0
+563,1500m women,Gold,1.0,Netherlands,NED,Ireen WÜST,Europe,Pyeongchang,2018,3.0
+564,1500m women,Silver,2.0,Japan,JPN,Miho TAKAGI,Asia,Pyeongchang,2018,2.0
+565,1500m women,Bronze,3.0,Netherlands,NED,Marrit LEENSTRA,Europe,Pyeongchang,2018,1.0
+566,3000m women,Gold,1.0,Netherlands,NED,Carlijn ACHTEREEKTE,Europe,Pyeongchang,2018,3.0
+567,3000m women,Silver,2.0,Netherlands,NED,Ireen WÜST,Europe,Pyeongchang,2018,2.0
+568,3000m women,Bronze,3.0,Netherlands,NED,Antoinette DE JONG,Europe,Pyeongchang,2018,1.0
+569,5000m men,Gold,1.0,Netherlands,NED,Sven KRAMER,Europe,Pyeongchang,2018,3.0
+570,5000m men,Silver,2.0,Canada,CAN,Ted-Jan BLOEMEN,North America,Pyeongchang,2018,2.0
+571,5000m men,Bronze,3.0,Norway,NOR,Sverre Lunde PEDERSEN,Europe,Pyeongchang,2018,1.0
+572,5000m women,Gold,1.0,Netherlands,NED,Esmee VISSER,Europe,Pyeongchang,2018,3.0
+573,5000m women,Silver,2.0,Czech Republic,CZE,Martina SABLIKOVA,Europe,Pyeongchang,2018,2.0
+574,5000m women,Bronze,3.0,Olympic Athletes from Russia,OAR,Natalia VORONINA,Europe,Pyeongchang,2018,1.0
+575,500m men,Gold,1.0,Norway,NOR,Havard LORENTZEN,Europe,Pyeongchang,2018,3.0
+576,500m men,Silver,2.0,Republic of Korea,KOR,Min Kyu CHA,Asia,Pyeongchang,2018,2.0
+577,500m men,Bronze,3.0,People's Republic of China,CHN,Tingyu GAO,Asia,Pyeongchang,2018,1.0
+578,500m women,Gold,1.0,Japan,JPN,Nao KODAIRA,Asia,Pyeongchang,2018,3.0
+579,500m women,Silver,2.0,Republic of Korea,KOR,Sang-Hwa LEE,Asia,Pyeongchang,2018,2.0
+580,500m women,Bronze,3.0,Czech Republic,CZE,Karolina ERBANOVA,Europe,Pyeongchang,2018,1.0
+581,Mass start men,Gold,1.0,Republic of Korea,KOR,Seung Hoon LEE,Asia,Pyeongchang,2018,3.0
+582,Mass start men,Silver,2.0,Belgium,BEL,Bart SWINGS,Europe,Pyeongchang,2018,2.0
+583,Mass start men,Bronze,3.0,Netherlands,NED,Koen VERWEIJ,Europe,Pyeongchang,2018,1.0
+584,Mass start women,Gold,1.0,Japan,JPN,Nana TAKAGI,Asia,Pyeongchang,2018,3.0
+585,Mass start women,Silver,2.0,Republic of Korea,KOR,Bo Reum KIM,Asia,Pyeongchang,2018,2.0
+586,Mass start women,Bronze,3.0,Netherlands,NED,Irene SCHOUTEN,Europe,Pyeongchang,2018,1.0
+587,Team pursuit men,Gold,1.0,Norway,NOR,Team Norway,Europe,Pyeongchang,2018,3.0
+588,Team pursuit men,Silver,2.0,Republic of Korea,KOR,Team Republic of Korea,Asia,Pyeongchang,2018,2.0
+589,Team pursuit men,Bronze,3.0,Netherlands,NED,Team Netherlands,Europe,Pyeongchang,2018,1.0
+590,Team pursuit women,Gold,1.0,Japan,JPN,Team Japan,Asia,Pyeongchang,2018,3.0
+591,Team pursuit women,Silver,2.0,Netherlands,NED,Team Netherlands,Europe,Pyeongchang,2018,2.0
+592,Team pursuit women,Bronze,3.0,United States of America,USA,Team United States of America,North America,Pyeongchang,2018,1.0
